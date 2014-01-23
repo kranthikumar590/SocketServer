@@ -1,0 +1,761 @@
+10:00:06,200  INFO CreateServer:20 - created server --> server listening.....
+2014-01-23-main--INFO -com.Server.Sources.CreateServer:created server --> server listening.....
+2014-01-23 10:05:54 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:08:48 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:10:27 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:10:30 INFO  CreateServer:23 - Cannot create server with port [ 10000 ]
+2014-01-23 10:11:22 INFO  CreateServer:23 - Cannot create server with port [ 10000 ] , PORT already in use!
+2014-01-23 10:11:41 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:12:17 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:12:21 INFO  CreateServer:23 - Cannot create server with port [ 10000 ] , PORT already in use!
+2014-01-23 10:12:25 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:12:41 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:12:42 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:13:46 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:13:48 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:14:32 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:14:34 INFO  ServerThread:45 - Data Received is [ R,004210444 ]
+2014-01-23 10:14:34 INFO  ServerThread:52 - IO Error/ Client Thread-3 terminated abruptly
+2014-01-23 10:14:34 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:15:54 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:15:56 INFO  ServerThread:45 - Data Received is [ R,004210444 ]
+2014-01-23 10:15:56 INFO  ServerThread:52 - IO Error/ Client [java.io.BufferedReader@27e54167 ] Thread-3 terminated abruptly
+2014-01-23 10:15:56 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:16:09 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:16:11 INFO  ServerThread:45 - Data Received is [ R,004210444 ]
+2014-01-23 10:16:11 INFO  ServerThread:52 - IO Error/ Client [Socket[addr=/127.0.0.1,port=40252,localport=10000] ] Thread-3 terminated abruptly
+2014-01-23 10:16:11 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:16:32 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:16:34 INFO  ServerThread:45 - Data Received is [ R,004210444 ]
+2014-01-23 10:16:34 INFO  ServerThread:52 - IO Error/ Client [/127.0.0.1:40258 ] Thread-3 terminated abruptly
+2014-01-23 10:16:34 INFO  ServerThread:74 - Connection Closing..
+2014-01-23 10:34:26 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:34:30 INFO  ServerThread:54 - Data Received is [ 004210444 ]
+2014-01-23 10:34:30 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40280 ] Thread-3 terminated abruptly
+2014-01-23 10:34:30 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:34:50 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:34:53 INFO  ServerThread:54 - RFID Received is [ 004210444 ]
+2014-01-23 10:34:53 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40281 ] Thread-3 terminated abruptly
+2014-01-23 10:34:53 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:35:55 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:35:58 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:35:58 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40283 ] Thread-3 terminated abruptly
+2014-01-23 10:35:58 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:38:45 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:38:47 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:38:47 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40287 ] Thread-3 terminated abruptly
+2014-01-23 10:42:26 INFO  CreateServer:20 - created server --> server listening.....
+2014-01-23 10:42:27 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:42:27 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40429 ] Thread-3 terminated abruptly
+2014-01-23 10:42:27 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:49:59 INFO  App:24 - created server --> server listening.....
+2014-01-23 10:50:02 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:50:02 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40438 ] Thread-3 terminated abruptly
+2014-01-23 10:50:02 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:55:48 INFO  App:24 - created server --> server listening.....
+2014-01-23 10:55:51 INFO  App:36 - Thread ststus -- > RUNNABLE
+2014-01-23 10:55:51 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:55:51 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40659 ] Thread-3 terminated abruptly
+2014-01-23 10:55:51 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:55:57 INFO  App:36 - Thread ststus -- > RUNNABLE
+2014-01-23 10:57:22 INFO  App:24 - created server --> server listening.....
+2014-01-23 10:57:24 INFO  App:36 - Thread ststus -- > RUNNABLE
+2014-01-23 10:57:24 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:57:24 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40667 ] Thread-3 terminated abruptly
+2014-01-23 10:57:24 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:57:27 INFO  App:36 - Thread ststus -- > RUNNABLE
+2014-01-23 10:57:52 INFO  App:24 - created server --> server listening.....
+2014-01-23 10:57:54 INFO  App:36 - Thread ststus -- > RUNNABLE
+2014-01-23 10:57:54 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:57:54 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40669 ] Thread-3 terminated abruptly
+2014-01-23 10:57:54 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:57:56 INFO  App:36 - Thread ststus -- > RUNNABLE
+2014-01-23 10:58:58 INFO  App:24 - created server --> server listening.....
+2014-01-23 10:59:00 INFO  App:36 - Thread status -- > RUNNABLE
+2014-01-23 10:59:00 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 10:59:00 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40671 ] Thread-3 terminated abruptly
+2014-01-23 10:59:00 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 10:59:03 INFO  App:36 - Thread status -- > RUNNABLE
+2014-01-23 10:59:03 INFO  App:46 - Connection Error  caused by [ null ]
+2014-01-23 11:00:56 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:00:57 INFO  App:36 - Thread status -- > RUNNABLE
+2014-01-23 11:00:57 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 11:00:57 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40677 ] Thread-3 terminated abruptly
+2014-01-23 11:00:57 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 11:01:00 INFO  App:36 - Thread status -- > RUNNABLE
+2014-01-23 11:01:00 INFO  App:48 - Connection Error  caused by [ null ]
+2014-01-23 11:07:19 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:07:23 INFO  App:36 - Thread status -- > RUNNABLE
+2014-01-23 11:07:23 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 11:07:23 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40685 ] Thread-3 terminated abruptly
+2014-01-23 11:07:23 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 11:07:27 INFO  App:36 - Thread status -- > RUNNABLE
+2014-01-23 11:07:27 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 11:07:27 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40686 ] Thread-4 terminated abruptly
+2014-01-23 11:07:27 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 11:12:08 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:12:16 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 11:12:16 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40721 ] Thread-3 terminated abruptly
+2014-01-23 11:12:16 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 11:12:17 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 11:12:17 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40722 ] Thread-4 terminated abruptly
+2014-01-23 11:12:17 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 11:19:04 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:19:06 INFO  App:33 - connection Established with --> /127.0.0.1:40802
+2014-01-23 11:19:06 INFO  ServerThread:54 - RFID Received is [ 0004210444 ]
+2014-01-23 11:19:06 INFO  ServerThread:70 - IO Error/ Client [/127.0.0.1:40802 ] Thread-3 terminated abruptly
+2014-01-23 11:19:06 INFO  ServerThread:92 - Connection Closing..
+2014-01-23 11:23:13 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:28:09 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:28:12 INFO  App:33 - connection Established with --> /127.0.0.1:40810
+2014-01-23 11:28:12 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:40810 ] Thread-3 terminated abruptly
+2014-01-23 11:28:12 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 11:28:40 INFO  App:24 - created server --> server listening.....
+2014-01-23 11:28:42 INFO  App:33 - connection Established with --> /127.0.0.1:40811
+2014-01-23 11:28:42 INFO  ServerThread:58 - RFID [ 0004210444] not valid / not registered....
+2014-01-23 11:28:42 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:40811 ] Thread-3 terminated abruptly
+2014-01-23 11:28:42 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 13:46:46 INFO  App:24 - created server --> server listening.....
+2014-01-23 13:46:52 INFO  App:27 - Cannot create server with port [ 10000 ] , PORT already in use!
+2014-01-23 13:47:11 INFO  App:27 - Cannot create server with port [ 10000 ] , PORT already in use!
+2014-01-23 13:47:26 INFO  App:33 - connection Established with --> /127.0.0.1:42067
+2014-01-23 13:47:26 INFO  ServerThread:61 - RFID [ 0004210444] not valid / not registered....
+2014-01-23 13:47:26 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42067 ] Thread-3 terminated abruptly
+2014-01-23 13:47:26 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:11:01 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:11:06 INFO  App:33 - connection Established with --> /127.0.0.1:42310
+2014-01-23 14:11:07 INFO  ServerThread:61 - RFID [ 0004716436] not valid / not registered....
+2014-01-23 14:11:07 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42310 ] Thread-3 terminated abruptly
+2014-01-23 14:11:07 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:12:20 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:12:22 INFO  App:33 - connection Established with --> /127.0.0.1:42313
+2014-01-23 14:12:22 INFO  InsertRfidData:31 -  Result --> null
+2014-01-23 14:12:22 INFO  ServerThread:61 - RFID [ 0004716436] not valid / not registered....
+2014-01-23 14:12:22 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42313 ] Thread-3 terminated abruptly
+2014-01-23 14:12:22 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:14:35 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:14:38 INFO  App:33 - connection Established with --> /127.0.0.1:42315
+2014-01-23 14:14:38 INFO  InsertRfidData:31 -  Result --> null
+2014-01-23 14:14:38 INFO  ServerThread:61 - RFID [ 0004716436] not valid / not registered....
+2014-01-23 14:14:38 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42315 ] Thread-3 terminated abruptly
+2014-01-23 14:14:38 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:16:50 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:16:53 INFO  App:33 - connection Established with --> /127.0.0.1:42320
+2014-01-23 14:16:53 INFO  InsertRfidData:31 -  Result --> null
+2014-01-23 14:16:53 INFO  ServerThread:61 - RFID [ 0004716436] not valid / not registered....
+2014-01-23 14:16:53 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42320 ] Thread-3 terminated abruptly
+2014-01-23 14:16:53 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:18:06 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:18:09 INFO  App:33 - connection Established with --> /127.0.0.1:42322
+2014-01-23 14:18:09 INFO  InsertRfidData:31 -  Result --> Rfid [rfid=null, allotted_time=Wed Dec 18 13:44:13 EST 2013, allotted_to=stu_0004716436_13:44:13, available=no, created_date=Wed Dec 18 13:35:48 EST 2013, type=student]
+2014-01-23 14:18:09 INFO  ServerThread:58 - RFID [ 0004716436] exists...
+2014-01-23 14:18:09 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42322 ] Thread-3 terminated abruptly
+2014-01-23 14:18:09 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:19:30 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:19:34 INFO  App:33 - connection Established with --> /127.0.0.1:42324
+2014-01-23 14:19:34 INFO  InsertRfidData:31 -  Result --> Rfid [rfid=null]
+2014-01-23 14:19:34 INFO  ServerThread:58 - RFID [ 0004716436] exists...
+2014-01-23 14:19:34 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42324 ] Thread-3 terminated abruptly
+2014-01-23 14:19:34 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:21:05 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:21:07 INFO  App:33 - connection Established with --> /127.0.0.1:42326
+2014-01-23 14:21:07 INFO  InsertRfidData:31 -  Result --> Rfid [rfid_number=0004716436, type=student]
+2014-01-23 14:21:07 INFO  ServerThread:58 - RFID [ 0004716436] exists...
+2014-01-23 14:21:07 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42326 ] Thread-3 terminated abruptly
+2014-01-23 14:21:07 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:21:24 INFO  App:33 - connection Established with --> /127.0.0.1:42328
+2014-01-23 14:21:24 INFO  InsertRfidData:31 -  Result --> null
+2014-01-23 14:21:24 INFO  ServerThread:61 - RFID [ 00047164367] not valid / not registered....
+2014-01-23 14:21:24 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42328 ] Thread-4 terminated abruptly
+2014-01-23 14:21:24 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:25:58 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:26:03 INFO  App:33 - connection Established with --> /127.0.0.1:42411
+2014-01-23 14:26:03 INFO  ServerThread:58 - RFID [ 00047164367] exists...
+2014-01-23 14:26:03 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42411 ] Thread-3 terminated abruptly
+2014-01-23 14:26:03 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:26:50 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:26:53 INFO  App:33 - connection Established with --> /127.0.0.1:42413
+2014-01-23 14:26:53 INFO  ServerThread:61 - RFID [ 00047164367] not valid / not registered....
+2014-01-23 14:26:53 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42413 ] Thread-3 terminated abruptly
+2014-01-23 14:26:53 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:27:08 INFO  App:33 - connection Established with --> /127.0.0.1:42415
+2014-01-23 14:27:08 INFO  ServerThread:58 - RFID [ 0004716436] exists...
+2014-01-23 14:27:08 INFO  ServerThread:79 - IO Error/ Client [/127.0.0.1:42415 ] Thread-4 terminated abruptly
+2014-01-23 14:27:08 INFO  ServerThread:101 - Connection Closing..
+2014-01-23 14:28:55 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:28:58 INFO  App:33 - connection Established with --> /127.0.0.1:42418
+2014-01-23 14:28:58 INFO  ServerThread:60 - RFID [ 0004716436] exists. with RFID Type [ student ]
+2014-01-23 14:28:58 INFO  ServerThread:81 - IO Error/ Client [/127.0.0.1:42418 ] Thread-3 terminated abruptly
+2014-01-23 14:28:58 INFO  ServerThread:103 - Connection Closing..
+2014-01-23 14:50:13 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:50:18 INFO  App:33 - connection Established with --> /127.0.0.1:42442
+2014-01-23 14:50:18 INFO  InsertRfidData:41 - RFID [ 4716436] exists. with RFID Type [ Student ]
+2014-01-23 14:50:18 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42442 ] Thread-3 terminated abruptly
+2014-01-23 14:50:18 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 14:54:08 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:54:10 INFO  App:33 - connection Established with --> /127.0.0.1:42446
+2014-01-23 14:54:10 INFO  ServerThread:67 - RFID [ 4716436] not valid / not registered....
+2014-01-23 14:54:10 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42446 ] Thread-3 terminated abruptly
+2014-01-23 14:54:10 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 14:55:13 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:55:15 INFO  App:33 - connection Established with --> /127.0.0.1:42450
+2014-01-23 14:55:15 INFO  InsertRfidData:41 - RFID [ 4716436] exists. with RFID Type [ Student ]
+2014-01-23 14:55:15 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42450 ] Thread-3 terminated abruptly
+2014-01-23 14:55:15 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 14:56:26 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:56:28 INFO  App:33 - connection Established with --> /127.0.0.1:42456
+2014-01-23 14:56:28 INFO  InsertRfidData:41 - RFID [ 4716436] exists. with RFID Type [ Student ]
+2014-01-23 14:56:28 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42456 ] Thread-3 terminated abruptly
+2014-01-23 14:56:28 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 14:57:26 INFO  App:24 - created server --> server listening.....
+2014-01-23 14:57:28 INFO  App:33 - connection Established with --> /127.0.0.1:42460
+2014-01-23 14:57:28 INFO  InsertRfidData:41 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 14:57:28 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42460 ] Thread-3 terminated abruptly
+2014-01-23 14:57:28 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 15:02:35 INFO  App:24 - created server --> server listening.....
+2014-01-23 15:02:54 INFO  App:33 - connection Established with --> /127.0.0.1:42534
+2014-01-23 15:02:55 INFO  InsertRfidData:41 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 15:02:55 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42534 ] Thread-3 terminated abruptly
+2014-01-23 15:02:55 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 15:07:57 INFO  App:24 - created server --> server listening.....
+2014-01-23 15:08:35 INFO  App:33 - connection Established with --> /127.0.0.1:42667
+2014-01-23 15:08:35 INFO  InsertRfidData:41 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 15:08:35 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:42667 ] Thread-3 terminated abruptly
+2014-01-23 15:08:35 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 15:27:52 INFO  App:24 - created server --> server listening.....
+2014-01-23 15:28:04 INFO  App:33 - connection Established with --> /127.0.0.1:38175
+2014-01-23 15:28:04 INFO  InsertRfidData:41 - RFID [ 4716436] exists. with RFID Type [ Student ]
+2014-01-23 15:28:04 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38175 ] Thread-3 terminated abruptly
+2014-01-23 15:28:04 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 15:29:22 INFO  App:24 - created server --> server listening.....
+2014-01-23 15:29:25 INFO  App:33 - connection Established with --> /127.0.0.1:38203
+2014-01-23 15:29:25 INFO  InsertRfidData:42 - RFID [ 4716436] exists. with RFID Type [ Student ]1
+2014-01-23 15:29:25 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38203 ] Thread-3 terminated abruptly
+2014-01-23 15:29:25 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:25:59 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:26:04 INFO  App:33 - connection Established with --> /127.0.0.1:38725
+2014-01-23 16:26:04 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:26:04 INFO  DriverRfid:21 - Today's date --> java.text.SimpleDateFormat@f9e3bac0
+2014-01-23 16:26:04 INFO  InsertRfidData:51 -  Driver Morning inbound doesnot exists...
+2014-01-23 16:26:04 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38725 ] Thread-3 terminated abruptly
+2014-01-23 16:26:04 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:26:49 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:26:52 INFO  App:33 - connection Established with --> /127.0.0.1:38727
+2014-01-23 16:26:53 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:26:53 INFO  DriverRfid:24 - Today's date --> 2014/01/23
+2014-01-23 16:26:53 INFO  InsertRfidData:51 -  Driver Morning inbound doesnot exists...
+2014-01-23 16:26:53 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38727 ] Thread-3 terminated abruptly
+2014-01-23 16:26:53 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:27:10 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:27:12 INFO  App:33 - connection Established with --> /127.0.0.1:38729
+2014-01-23 16:27:12 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:27:12 INFO  DriverRfid:24 - Today's date --> 23/01/2014
+2014-01-23 16:27:12 INFO  InsertRfidData:51 -  Driver Morning inbound doesnot exists...
+2014-01-23 16:27:12 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38729 ] Thread-3 terminated abruptly
+2014-01-23 16:27:12 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:38:15 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:38:18 INFO  App:33 - connection Established with --> /127.0.0.1:38742
+2014-01-23 16:38:18 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:38:18 INFO  InsertRfidData:51 -  Driver Morning inbound doesnot exists...
+2014-01-23 16:38:18 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38742 ] Thread-3 terminated abruptly
+2014-01-23 16:38:18 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:38:54 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:38:57 INFO  App:33 - connection Established with --> /127.0.0.1:38744
+2014-01-23 16:38:58 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:38:58 INFO  InsertRfidData:51 -  Driver Morning inbound doesnot exists...
+2014-01-23 16:38:58 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38744 ] Thread-3 terminated abruptly
+2014-01-23 16:38:58 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:39:33 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:39:35 INFO  App:33 - connection Established with --> /127.0.0.1:38746
+2014-01-23 16:39:35 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:39:35 INFO  InsertRfidData:51 -  Driver Morning inbound doesnot exists...
+2014-01-23 16:39:35 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38746 ] Thread-3 terminated abruptly
+2014-01-23 16:39:35 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:40:56 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:40:57 INFO  App:33 - connection Established with --> /127.0.0.1:38748
+2014-01-23 16:40:57 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:40:57 INFO  InsertRfidData:48 -  Driver Morning inbound  exists...
+2014-01-23 16:40:57 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38748 ] Thread-3 terminated abruptly
+2014-01-23 16:40:57 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:42:09 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:42:11 INFO  App:33 - connection Established with --> /127.0.0.1:38750
+2014-01-23 16:42:11 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:42:11 INFO  InsertRfidData:48 -  Driver Morning inbound  exists...
+2014-01-23 16:42:11 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38750 ] Thread-3 terminated abruptly
+2014-01-23 16:42:11 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:46:33 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:46:36 INFO  App:33 - connection Established with --> /127.0.0.1:38795
+2014-01-23 16:46:36 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:46:36 INFO  InsertRfidData:48 -  Driver Morning inbound  exists...
+2014-01-23 16:46:36 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38795 ] Thread-3 terminated abruptly
+2014-01-23 16:46:36 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:47:19 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:47:20 INFO  App:33 - connection Established with --> /127.0.0.1:38797
+2014-01-23 16:47:21 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:47:21 INFO  InsertRfidData:48 -  Driver Morning inbound  exists...
+2014-01-23 16:47:21 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38797 ] Thread-3 terminated abruptly
+2014-01-23 16:47:21 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:48:46 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:48:50 INFO  App:33 - connection Established with --> /127.0.0.1:38799
+2014-01-23 16:48:50 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:48:50 INFO  DriverRfid:31 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 16:48:50 INFO  InsertRfidData:48 -  Driver Morning inbound  exists...
+2014-01-23 16:48:50 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38799 ] Thread-3 terminated abruptly
+2014-01-23 16:48:50 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 16:49:21 INFO  App:24 - created server --> server listening.....
+2014-01-23 16:49:23 INFO  App:33 - connection Established with --> /127.0.0.1:38803
+2014-01-23 16:49:23 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 16:49:23 INFO  DriverRfid:31 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 16:49:23 INFO  InsertRfidData:51 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 16:49:23 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38803 ] Thread-3 terminated abruptly
+2014-01-23 16:49:23 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:09:59 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:10:01 INFO  App:33 - connection Established with --> /127.0.0.1:38810
+2014-01-23 17:10:01 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:10:01 INFO  DriverRfid:29 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:10:01 INFO  InsertRfidData:48 -  Driver Morning inbound  exists...
+2014-01-23 17:10:01 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38810 ] Thread-3 terminated abruptly
+2014-01-23 17:10:01 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:10:18 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:10:20 INFO  App:33 - connection Established with --> /127.0.0.1:38812
+2014-01-23 17:10:20 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:10:20 INFO  DriverRfid:29 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:10:20 INFO  InsertRfidData:51 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 17:10:20 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38812 ] Thread-3 terminated abruptly
+2014-01-23 17:10:20 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:10:58 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:11:01 INFO  App:33 - connection Established with --> /127.0.0.1:38814
+2014-01-23 17:11:01 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:11:01 INFO  DriverRfid:29 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:11:01 INFO  InsertRfidData:51 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 17:11:01 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38814 ] Thread-3 terminated abruptly
+2014-01-23 17:11:01 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:11:51 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:12:03 INFO  App:33 - connection Established with --> /127.0.0.1:38819
+2014-01-23 17:12:03 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:12:03 INFO  DriverRfid:29 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:12:03 INFO  InsertRfidData:51 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 17:12:03 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38819 ] Thread-3 terminated abruptly
+2014-01-23 17:12:03 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:18:06 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:18:23 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:18:28 INFO  App:33 - connection Established with --> /127.0.0.1:38822
+2014-01-23 17:18:29 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:18:29 INFO  DriverRfid:30 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:18:29 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:18:29 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38822 ] Thread-3 terminated abruptly
+2014-01-23 17:18:29 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:21:04 INFO  App:33 - connection Established with --> /127.0.0.1:38824
+2014-01-23 17:21:04 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:21:04 INFO  DriverRfid:30 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:21:04 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:21:04 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38824 ] Thread-4 terminated abruptly
+2014-01-23 17:21:04 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:22:36 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:22:40 INFO  App:33 - connection Established with --> /127.0.0.1:38826
+2014-01-23 17:22:40 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:22:40 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:22:40 INFO  DriverRfid:30 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:22:40 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:22:40 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38826 ] Thread-3 terminated abruptly
+2014-01-23 17:22:40 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:24:27 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:24:30 INFO  App:33 - connection Established with --> /127.0.0.1:38828
+2014-01-23 17:24:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:24:30 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:24:30 INFO  DriverRfid:30 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 17:24:30 INFO  InsertRfidData:59 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 17:24:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38828 ] Thread-3 terminated abruptly
+2014-01-23 17:24:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:25:55 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:25:57 INFO  App:33 - connection Established with --> /127.0.0.1:38831
+2014-01-23 17:25:57 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:25:57 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:25:57 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:25:57 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:25:57 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38831 ] Thread-3 terminated abruptly
+2014-01-23 17:25:57 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:26:49 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:26:50 INFO  App:33 - connection Established with --> /127.0.0.1:38833
+2014-01-23 17:26:50 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:26:51 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:26:51 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:26:51 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:26:51 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38833 ] Thread-3 terminated abruptly
+2014-01-23 17:26:51 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:27:59 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:28:04 INFO  App:33 - connection Established with --> /127.0.0.1:38835
+2014-01-23 17:28:04 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:28:04 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:28:04 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:28:04 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:28:04 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38835 ] Thread-3 terminated abruptly
+2014-01-23 17:28:04 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:29:48 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:29:52 INFO  App:33 - connection Established with --> /127.0.0.1:38837
+2014-01-23 17:29:52 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:29:52 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:29:52 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:29:52 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:29:52 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38837 ] Thread-3 terminated abruptly
+2014-01-23 17:29:52 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:32:46 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:32:48 INFO  App:33 - connection Established with --> /127.0.0.1:38842
+2014-01-23 17:32:48 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:32:48 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:32:48 INFO  DriverRfid:38 - DriverStatus --> null
+2014-01-23 17:32:48 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:32:48 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38842 ] Thread-3 terminated abruptly
+2014-01-23 17:32:48 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:34:21 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:34:26 INFO  App:33 - connection Established with --> /127.0.0.1:38844
+2014-01-23 17:34:26 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:34:26 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:34:26 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:34:26 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:34:26 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38844 ] Thread-3 terminated abruptly
+2014-01-23 17:34:26 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:35:23 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:35:24 INFO  App:33 - connection Established with --> /127.0.0.1:38847
+2014-01-23 17:35:24 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:35:24 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:35:24 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:35:24 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:35:24 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38847 ] Thread-3 terminated abruptly
+2014-01-23 17:35:24 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:36:36 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:36:39 INFO  App:33 - connection Established with --> /127.0.0.1:38849
+2014-01-23 17:36:39 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:36:39 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:36:39 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:36:39 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:36:39 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38849 ] Thread-3 terminated abruptly
+2014-01-23 17:36:39 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:38:58 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:39:02 INFO  App:33 - connection Established with --> /127.0.0.1:38851
+2014-01-23 17:39:02 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:39:02 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:39:02 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:39:02 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:39:02 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38851 ] Thread-3 terminated abruptly
+2014-01-23 17:39:02 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:40:29 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:40:30 INFO  App:33 - connection Established with --> /127.0.0.1:38853
+2014-01-23 17:40:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:40:30 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:40:30 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:40:30 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:40:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38853 ] Thread-3 terminated abruptly
+2014-01-23 17:40:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:45:44 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:45:47 INFO  App:33 - connection Established with --> /127.0.0.1:38933
+2014-01-23 17:45:47 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:45:47 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:45:47 INFO  DriverRfid:31 - DriverStatus --> null
+2014-01-23 17:45:47 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:45:47 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38933 ] Thread-3 terminated abruptly
+2014-01-23 17:45:47 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:46:19 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:46:27 INFO  App:33 - connection Established with --> /127.0.0.1:38938
+2014-01-23 17:46:27 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:46:27 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:46:27 INFO  DriverRfid:31 - DriverStatus --> null
+2014-01-23 17:46:27 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:46:27 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38938 ] Thread-3 terminated abruptly
+2014-01-23 17:46:27 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:47:30 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:47:35 INFO  App:33 - connection Established with --> /127.0.0.1:38940
+2014-01-23 17:47:35 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:47:35 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:47:35 INFO  DriverRfid:28 - Query  --> Query: { "_id" : "BUS_101:09-01-2014" , "$and" : [ { "driver_info" : { } , "$and" : [ { "morning" : { } , "$and" : [ { "out_bound" : "no"}]}]}]}, Fields: null, Sort: null
+2014-01-23 17:47:35 INFO  DriverRfid:31 - DriverStatus --> null
+2014-01-23 17:47:35 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:47:35 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38940 ] Thread-3 terminated abruptly
+2014-01-23 17:47:35 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:49:46 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:49:48 INFO  App:33 - connection Established with --> /127.0.0.1:38944
+2014-01-23 17:49:48 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:49:48 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:49:48 INFO  DriverRfid:27 - Query  --> Query: { "_id" : "BUS_101:09-01-2014" , "$and" : [ { "driver_info.morning.outbound" : "no"}]}, Fields: null, Sort: null
+2014-01-23 17:49:48 INFO  DriverRfid:30 - DriverStatus --> null
+2014-01-23 17:49:48 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 17:49:48 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38944 ] Thread-3 terminated abruptly
+2014-01-23 17:49:48 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 17:58:53 INFO  App:24 - created server --> server listening.....
+2014-01-23 17:58:56 INFO  App:33 - connection Established with --> /127.0.0.1:38962
+2014-01-23 17:58:56 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 17:58:56 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 17:58:56 INFO  DriverRfid:33 - Query  --> Query: { "_id" : "BUS_101:09-01-2014", "$in" : [ { $java : Query: { "morning" : { "$in" : [ { $java : org.springframework.data.mongodb.core.query.Criteria@639e271f } ] } }, Fields: null, Sort: null } ] }, Fields: null, Sort: null
+2014-01-23 17:58:56 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:00:23 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:00:25 INFO  App:33 - connection Established with --> /127.0.0.1:38966
+2014-01-23 18:00:25 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:00:25 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:00:25 INFO  ServerThread:77 - Exception with data ... Exception type [Multiple 'is' values declared. You need to use 'and' with multiple criteria ]
+2014-01-23 18:00:25 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38966 ] Thread-3 terminated abruptly
+2014-01-23 18:00:25 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:01:10 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:01:11 INFO  App:33 - connection Established with --> /127.0.0.1:38972
+2014-01-23 18:01:11 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:01:11 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:01:11 INFO  DriverRfid:33 - Query  --> Query: { "_id" : "BUS_101:09-01-2014", "$in" : [ { $java : Query: { "morning" : { $java : org.springframework.data.mongodb.core.query.Criteria@639e271f } }, Fields: null, Sort: null } ] }, Fields: null, Sort: null
+2014-01-23 18:01:11 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:06:51 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:06:56 INFO  App:33 - connection Established with --> /127.0.0.1:39092
+2014-01-23 18:06:56 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:06:56 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:06:56 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:06:56 INFO  DriverRfid:32 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 18:06:56 INFO  InsertRfidData:59 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:06:56 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39092 ] Thread-3 terminated abruptly
+2014-01-23 18:06:56 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:08:12 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:08:14 INFO  App:33 - connection Established with --> /127.0.0.1:39094
+2014-01-23 18:08:14 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:08:14 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:08:14 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "23/01/2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:08:14 INFO  DriverRfid:32 - DriverStatus --> null
+2014-01-23 18:08:14 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-23 18:08:14 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39094 ] Thread-3 terminated abruptly
+2014-01-23 18:08:14 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:09:21 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:09:23 INFO  App:33 - connection Established with --> /127.0.0.1:39096
+2014-01-23 18:09:23 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:09:23 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:09:23 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "23/01/2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:09:23 INFO  DriverRfid:32 - DriverStatus --> null
+2014-01-23 18:09:23 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39096 ] Thread-3 terminated abruptly
+2014-01-23 18:09:23 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:10:25 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:10:27 INFO  App:33 - connection Established with --> /127.0.0.1:39098
+2014-01-23 18:10:27 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:10:28 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:10:28 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "23/01/2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:10:28 INFO  DriverRfid:32 - DriverStatus --> null
+2014-01-23 18:10:28 INFO  InsertRfidData:65 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:10:28 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39098 ] Thread-3 terminated abruptly
+2014-01-23 18:10:28 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:10:38 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:10:39 INFO  App:33 - connection Established with --> /127.0.0.1:39100
+2014-01-23 18:10:39 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:10:39 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:10:39 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:10:39 INFO  DriverRfid:32 - DriverStatus --> DriverStatus [morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-23 18:10:39 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:10:39 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39100 ] Thread-3 terminated abruptly
+2014-01-23 18:10:39 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:19:46 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:19:49 INFO  App:33 - connection Established with --> /127.0.0.1:39176
+2014-01-23 18:19:49 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:19:49 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:19:49 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:19:49 INFO  DriverRfid:32 - DriverStatus --> MorningSession [morning_in_bound=null, morning_out_bound=null]
+2014-01-23 18:19:49 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:19:49 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39176 ] Thread-3 terminated abruptly
+2014-01-23 18:19:49 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:21:00 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:21:01 INFO  App:33 - connection Established with --> /127.0.0.1:39180
+2014-01-23 18:21:01 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:21:01 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:21:01 INFO  DriverRfid:29 - Query  --> Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:21:01 INFO  DriverRfid:32 - DriverStatus --> MorningSession [morning_in_bound=null, morning_out_bound=null]
+2014-01-23 18:21:01 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:21:01 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39180 ] Thread-3 terminated abruptly
+2014-01-23 18:21:01 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:22:57 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:23:00 INFO  App:33 - connection Established with --> /127.0.0.1:39183
+2014-01-23 18:23:00 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:23:00 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:23:00 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:23:00 INFO  DriverRfid:32 - MorningSession [morning_in_bound=null, morning_out_bound=null]
+2014-01-23 18:23:00 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:23:00 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39183 ] Thread-3 terminated abruptly
+2014-01-23 18:23:00 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:23:35 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:23:36 INFO  App:33 - connection Established with --> /127.0.0.1:39185
+2014-01-23 18:23:36 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:23:36 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:23:36 INFO  DriverRfid:29 - Query: { "_id" : "23/01/2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:23:36 INFO  DriverRfid:32 - 
+2014-01-23 18:23:36 INFO  InsertRfidData:65 - MorningSession null
+2014-01-23 18:23:36 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39185 ] Thread-3 terminated abruptly
+2014-01-23 18:23:36 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:24:33 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:24:34 INFO  App:33 - connection Established with --> /127.0.0.1:39188
+2014-01-23 18:24:34 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:24:34 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:24:34 INFO  DriverRfid:29 - Query: { "_id" : "23/01/2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:24:34 INFO  DriverRfid:32 - 
+2014-01-23 18:24:34 INFO  InsertRfidData:65 - MorningSession is null
+2014-01-23 18:24:34 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39188 ] Thread-3 terminated abruptly
+2014-01-23 18:24:34 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:25:01 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:25:02 INFO  App:33 - connection Established with --> /127.0.0.1:39190
+2014-01-23 18:25:02 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:25:02 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:25:02 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:25:02 INFO  DriverRfid:32 - MorningSession [morning_in_bound=null, morning_out_bound=null]
+2014-01-23 18:25:02 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:25:02 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39190 ] Thread-3 terminated abruptly
+2014-01-23 18:25:02 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:25:24 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:25:26 INFO  App:33 - connection Established with --> /127.0.0.1:39192
+2014-01-23 18:25:26 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:25:26 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:25:26 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:25:26 INFO  DriverRfid:32 - MorningSession [morning_in_bound=null, morning_out_bound=null]
+2014-01-23 18:25:26 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:25:26 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39192 ] Thread-3 terminated abruptly
+2014-01-23 18:25:26 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:26:53 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:26:56 INFO  App:33 - connection Established with --> /127.0.0.1:39197
+2014-01-23 18:26:56 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:26:56 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:26:56 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:26:56 INFO  DriverRfid:32 - MorningSession [in_bound=null, out_bound=null]
+2014-01-23 18:26:56 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:26:56 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39197 ] Thread-3 terminated abruptly
+2014-01-23 18:26:56 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:32:18 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:32:23 INFO  App:33 - connection Established with --> /127.0.0.1:39207
+2014-01-23 18:32:23 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:32:23 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:32:23 INFO  DriverRfid:29 - Query: { "id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:32:23 INFO  DriverRfid:32 - 
+2014-01-23 18:32:23 INFO  InsertRfidData:65 - MorningSession is null
+2014-01-23 18:32:23 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39207 ] Thread-3 terminated abruptly
+2014-01-23 18:32:23 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:32:36 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:32:37 INFO  App:33 - connection Established with --> /127.0.0.1:39209
+2014-01-23 18:32:37 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:32:37 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:32:37 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:32:37 INFO  DriverRfid:32 - MorningSession [in_bound=null, out_bound=null]
+2014-01-23 18:32:37 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:32:37 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39209 ] Thread-3 terminated abruptly
+2014-01-23 18:32:37 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:47:40 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:47:44 INFO  App:33 - connection Established with --> /127.0.0.1:39353
+2014-01-23 18:47:44 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:47:45 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:47:45 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:47:45 INFO  DriverRfid:32 - com.client.data.MorningSession@5b6feec0
+2014-01-23 18:47:45 INFO  InsertRfidData:61 - Morning Session is not statred yet.. this information is discarded!
+2014-01-23 18:47:45 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39353 ] Thread-3 terminated abruptly
+2014-01-23 18:47:45 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 18:58:39 INFO  App:24 - created server --> server listening.....
+2014-01-23 18:58:43 INFO  App:33 - connection Established with --> /127.0.0.1:39475
+2014-01-23 18:58:43 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 18:58:43 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 18:58:43 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 18:58:43 INFO  DriverRfid:32 - driver_info [morning=null, evening=null]
+2014-01-23 18:58:43 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39475 ] Thread-3 terminated abruptly
+2014-01-23 18:58:43 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:32:55 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:32:59 INFO  App:33 - connection Established with --> /127.0.0.1:39748
+2014-01-23 19:32:59 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:32:59 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:32:59 INFO  DriverRfid:29 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 19:32:59 INFO  DriverRfid:32 - OneDayBusInfo [driver_info=null]
+2014-01-23 19:32:59 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39748 ] Thread-3 terminated abruptly
+2014-01-23 19:32:59 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:40:36 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:40:40 INFO  App:33 - connection Established with --> /127.0.0.1:39964
+2014-01-23 19:40:40 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:40:40 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:40:40 INFO  DriverRfid:33 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 19:40:40 INFO  DriverRfid:37 - OneDayBusInfo [driver_info=null]
+2014-01-23 19:40:40 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39964 ] Thread-3 terminated abruptly
+2014-01-23 19:40:40 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:41:14 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:41:16 INFO  App:33 - connection Established with --> /127.0.0.1:39966
+2014-01-23 19:41:16 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:41:16 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:41:16 INFO  DriverRfid:33 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: { "driver_info" : { "$elemMatch" : { "morning" : { "$elemMatch" : { "out_bound" : "no"}}}}}, Sort: { }
+2014-01-23 19:41:16 INFO  DriverRfid:37 - reply ==> OneDayBusInfo [driver_info=null]
+2014-01-23 19:41:16 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39966 ] Thread-3 terminated abruptly
+2014-01-23 19:41:16 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:43:14 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:43:16 INFO  App:33 - connection Established with --> /127.0.0.1:39968
+2014-01-23 19:43:16 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:43:16 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:43:16 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-23 19:43:16 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-23 19:43:16 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39968 ] Thread-3 terminated abruptly
+2014-01-23 19:43:16 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:44:30 INFO  App:33 - connection Established with --> /127.0.0.1:39970
+2014-01-23 19:44:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:44:30 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:44:30 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-23 19:44:30 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-23 19:44:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39970 ] Thread-4 terminated abruptly
+2014-01-23 19:44:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:46:18 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:46:19 INFO  App:33 - connection Established with --> /127.0.0.1:39972
+2014-01-23 19:46:20 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:46:20 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:46:20 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-23 19:46:20 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-23 19:46:20 INFO  InsertRfidData:50 - 11:56:58
+2014-01-23 19:46:20 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39972 ] Thread-3 terminated abruptly
+2014-01-23 19:46:20 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:52:17 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:52:19 INFO  App:33 - connection Established with --> /127.0.0.1:39975
+2014-01-23 19:52:19 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:52:19 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:52:19 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-23 19:52:19 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-23 19:52:19 INFO  InsertRfidData:50 - 11:56:58
+2014-01-23 19:52:19 INFO  InsertRfidData:57 - Morning out bound  exists...
+2014-01-23 19:52:19 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39975 ] Thread-3 terminated abruptly
+2014-01-23 19:52:19 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:53:25 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:53:26 INFO  App:33 - connection Established with --> /127.0.0.1:39977
+2014-01-23 19:53:27 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:53:27 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:53:27 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-23 19:53:27 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-23 19:53:27 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-23 19:53:27 INFO  InsertRfidData:58 - Morning out bound  exists...
+2014-01-23 19:53:27 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39977 ] Thread-3 terminated abruptly
+2014-01-23 19:53:27 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 19:55:54 INFO  App:24 - created server --> server listening.....
+2014-01-23 19:55:56 INFO  App:33 - connection Established with --> /127.0.0.1:39979
+2014-01-23 19:55:56 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 19:55:56 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 19:55:56 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-23 19:55:56 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-23 19:55:56 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-23 19:55:56 INFO  InsertRfidData:61 - Morning out bound doesnot exists...
+2014-01-23 19:55:56 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:39979 ] Thread-3 terminated abruptly
+2014-01-23 19:55:56 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 20:01:15 INFO  App:24 - created server --> server listening.....
+2014-01-23 20:01:22 INFO  App:33 - connection Established with --> /127.0.0.1:40061
+2014-01-23 20:01:22 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 20:01:22 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 20:01:22 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:23-01-2014"}, Fields: null, Sort: { }
+2014-01-23 20:01:22 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=com.client.data.evening@5bbda87e]]
+2014-01-23 20:01:22 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-23 20:01:22 INFO  InsertRfidData:61 - Morning out bound doesnot exists...
+2014-01-23 20:01:22 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:40061 ] Thread-3 terminated abruptly
+2014-01-23 20:01:22 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 20:02:13 INFO  App:24 - created server --> server listening.....
+2014-01-23 20:02:15 INFO  App:33 - connection Established with --> /127.0.0.1:40063
+2014-01-23 20:02:15 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 20:02:15 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 20:02:15 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:23-01-2014"}, Fields: null, Sort: { }
+2014-01-23 20:02:15 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=MorningSession [in_bound=11:56:58, out_bound=no], evening=MorningSession [in_bound=11:56:58, out_bound=no]]]
+2014-01-23 20:02:15 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-23 20:02:15 INFO  InsertRfidData:61 - Morning out bound doesnot exists...
+2014-01-23 20:02:15 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:40063 ] Thread-3 terminated abruptly
+2014-01-23 20:02:15 INFO  ServerThread:107 - Connection Closing..
+2014-01-23 20:03:16 INFO  App:24 - created server --> server listening.....
+2014-01-23 20:03:18 INFO  App:33 - connection Established with --> /127.0.0.1:40065
+2014-01-23 20:03:18 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-23 20:03:18 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-23 20:03:18 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:23-01-2014"}, Fields: null, Sort: { }
+2014-01-23 20:03:18 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-23 20:03:18 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-23 20:03:18 INFO  InsertRfidData:61 - Morning out bound doesnot exists...
+2014-01-23 20:03:18 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:40065 ] Thread-3 terminated abruptly
+2014-01-23 20:03:18 INFO  ServerThread:107 - Connection Closing..
