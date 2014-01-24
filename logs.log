@@ -759,3 +759,1021 @@
 2014-01-23 20:03:18 INFO  InsertRfidData:61 - Morning out bound doesnot exists...
 2014-01-23 20:03:18 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:40065 ] Thread-3 terminated abruptly
 2014-01-23 20:03:18 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:27:46 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:28:46 INFO  App:33 - connection Established with --> /127.0.0.1:36807
+2014-01-24 10:28:46 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:28:46 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:28:46 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:28:46 INFO  DriverRfid:34 - reply ==> null
+2014-01-24 10:28:46 INFO  InsertRfidData:69 - MorningSession is null
+2014-01-24 10:28:46 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36807 ] Thread-3 terminated abruptly
+2014-01-24 10:28:46 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:29:32 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:29:33 INFO  App:33 - connection Established with --> /127.0.0.1:36809
+2014-01-24 10:29:34 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:29:34 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:29:34 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:29:34 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 10:29:34 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-24 10:29:34 INFO  InsertRfidData:61 - Morning out bound doesnot exists...
+2014-01-24 10:29:34 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36809 ] Thread-3 terminated abruptly
+2014-01-24 10:29:34 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:42:29 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:42:31 INFO  App:33 - connection Established with --> /127.0.0.1:36841
+2014-01-24 10:42:31 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:42:32 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:42:32 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:09-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:42:32 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 10:42:32 INFO  InsertRfidData:53 - Morning out bound no
+2014-01-24 10:42:32 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-24 10:42:32 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36841 ] Thread-3 terminated abruptly
+2014-01-24 10:42:32 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:44:22 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:44:26 INFO  App:33 - connection Established with --> /127.0.0.1:36845
+2014-01-24 10:44:26 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:44:26 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:44:26 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:44:26 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 10:44:26 INFO  InsertRfidData:53 - Morning out bound 11:56:58
+2014-01-24 10:44:26 INFO  InsertRfidData:60 - Morning out bound  exists...
+2014-01-24 10:44:26 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36845 ] Thread-3 terminated abruptly
+2014-01-24 10:44:26 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:45:13 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:45:15 INFO  App:33 - connection Established with --> /127.0.0.1:36847
+2014-01-24 10:45:15 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:45:15 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:45:15 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:45:15 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 10:45:15 INFO  InsertRfidData:56 - Evening out bound no
+2014-01-24 10:45:15 INFO  InsertRfidData:61 - Morning out bound  exists...
+2014-01-24 10:45:15 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36847 ] Thread-3 terminated abruptly
+2014-01-24 10:45:15 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:48:30 INFO  App:33 - connection Established with --> /127.0.0.1:36849
+2014-01-24 10:48:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:48:30 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:48:30 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:48:30 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=null]]
+2014-01-24 10:48:30 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-24 10:48:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36849 ] Thread-4 terminated abruptly
+2014-01-24 10:48:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:50:34 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:50:36 INFO  App:33 - connection Established with --> /127.0.0.1:36851
+2014-01-24 10:50:36 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:50:36 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:50:36 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:50:36 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=null]]
+2014-01-24 10:50:36 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-24 10:50:36 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36851 ] Thread-3 terminated abruptly
+2014-01-24 10:50:36 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:53:28 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:53:30 INFO  App:33 - connection Established with --> /127.0.0.1:36856
+2014-01-24 10:53:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:53:30 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:53:30 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:53:30 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=null]]
+2014-01-24 10:53:30 INFO  InsertRfidData:83 - EveningSession is null
+2014-01-24 10:53:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36856 ] Thread-3 terminated abruptly
+2014-01-24 10:53:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:57:09 INFO  App:33 - connection Established with --> /127.0.0.1:36864
+2014-01-24 10:57:09 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:57:09 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:57:09 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:57:09 INFO  DriverRfid:34 - reply ==> null
+2014-01-24 10:57:09 INFO  InsertRfidData:89 - MorningSession is null
+2014-01-24 10:57:09 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36864 ] Thread-4 terminated abruptly
+2014-01-24 10:57:09 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:57:59 INFO  App:33 - connection Established with --> /127.0.0.1:36866
+2014-01-24 10:57:59 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:57:59 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:57:59 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:57:59 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=null]]
+2014-01-24 10:57:59 INFO  InsertRfidData:83 - EveningSession is null
+2014-01-24 10:57:59 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36866 ] Thread-5 terminated abruptly
+2014-01-24 10:57:59 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:58:30 INFO  App:33 - connection Established with --> /127.0.0.1:36868
+2014-01-24 10:58:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:58:30 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:58:30 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:58:30 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 10:58:30 INFO  InsertRfidData:83 - EveningSession is null
+2014-01-24 10:58:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36868 ] Thread-6 terminated abruptly
+2014-01-24 10:58:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 10:59:22 INFO  App:24 - created server --> server listening.....
+2014-01-24 10:59:23 INFO  App:33 - connection Established with --> /127.0.0.1:36870
+2014-01-24 10:59:24 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 10:59:24 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 10:59:24 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 10:59:24 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 10:59:24 INFO  InsertRfidData:80 - Morning out bound doesnot exists...
+2014-01-24 10:59:24 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36870 ] Thread-3 terminated abruptly
+2014-01-24 10:59:24 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:00:29 INFO  App:33 - connection Established with --> /127.0.0.1:36872
+2014-01-24 11:00:29 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:00:29 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:00:29 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:00:29 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=null]]
+2014-01-24 11:00:29 INFO  InsertRfidData:62 - Morning out bound  exists...
+2014-01-24 11:00:29 INFO  InsertRfidData:88 - EveningSession is null
+2014-01-24 11:00:29 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36872 ] Thread-4 terminated abruptly
+2014-01-24 11:00:29 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:01:00 INFO  App:33 - connection Established with --> /127.0.0.1:36874
+2014-01-24 11:01:00 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:01:00 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:01:00 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:01:00 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 11:01:00 INFO  InsertRfidData:62 - Morning out bound  exists...
+2014-01-24 11:01:00 INFO  InsertRfidData:72 - Today's session is closed...
+2014-01-24 11:01:00 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36874 ] Thread-5 terminated abruptly
+2014-01-24 11:01:00 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:02:31 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:02:34 INFO  App:33 - connection Established with --> /127.0.0.1:36876
+2014-01-24 11:02:34 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:02:34 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:02:34 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:02:34 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 11:02:34 INFO  InsertRfidData:62 - Morning out bound  exists...
+2014-01-24 11:02:34 INFO  InsertRfidData:73 - Evening in bound  exists...
+2014-01-24 11:02:34 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36876 ] Thread-3 terminated abruptly
+2014-01-24 11:02:34 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:03:06 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:03:07 INFO  App:33 - connection Established with --> /127.0.0.1:36879
+2014-01-24 11:03:07 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:03:07 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:03:07 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:03:08 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 11:03:08 INFO  InsertRfidData:62 - Morning out bound  exists...
+2014-01-24 11:03:08 INFO  InsertRfidData:73 - Evening in bound  exists... but not evening out bound so insert student data
+2014-01-24 11:03:08 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36879 ] Thread-3 terminated abruptly
+2014-01-24 11:03:08 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:03:55 INFO  App:33 - connection Established with --> /127.0.0.1:36881
+2014-01-24 11:03:55 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:03:55 INFO  InsertRfidData:43 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:03:55 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:03:55 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 11:03:55 INFO  InsertRfidData:62 - Morning out bound  exists...
+2014-01-24 11:03:55 INFO  InsertRfidData:69 - Today's session is closed...
+2014-01-24 11:03:55 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36881 ] Thread-4 terminated abruptly
+2014-01-24 11:03:55 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:29:57 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:30:01 INFO  App:33 - connection Established with --> /127.0.0.1:36887
+2014-01-24 11:30:01 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:30:01 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:30:01 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:30:01 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 11:30:01 INFO  InsertRfidData:70 - Morning out bound  exists...
+2014-01-24 11:30:01 INFO  InsertRfidData:77 - Today's session is closed...
+2014-01-24 11:30:01 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36887 ] Thread-3 terminated abruptly
+2014-01-24 11:30:01 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:31:02 INFO  App:33 - connection Established with --> /127.0.0.1:36889
+2014-01-24 11:31:02 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:31:02 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:31:02 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:31:02 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 11:31:02 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:31:02 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:31:02 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:31:02 INFO  InsertRfidData:101 - Morning out bound doesnot exists...
+2014-01-24 11:31:02 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36889 ] Thread-4 terminated abruptly
+2014-01-24 11:31:02 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:31:53 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:31:54 INFO  App:33 - connection Established with --> /127.0.0.1:36891
+2014-01-24 11:31:54 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:31:54 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:31:54 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:31:54 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 11:31:54 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:31:54 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:31:54 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:31:54 INFO  InsertRfidData:101 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 11:31:54 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36891 ] Thread-3 terminated abruptly
+2014-01-24 11:31:54 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:36:25 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:36:29 INFO  App:33 - connection Established with --> /127.0.0.1:36896
+2014-01-24 11:36:29 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:36:29 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:36:29 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:36:29 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 11:36:29 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:36:29 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:36:29 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:36:29 INFO  InsertRfidData:101 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 11:36:29 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36896 ] Thread-3 terminated abruptly
+2014-01-24 11:36:29 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:38:37 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:38:38 INFO  App:33 - connection Established with --> /127.0.0.1:36898
+2014-01-24 11:38:38 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:38:38 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:38:39 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:38:39 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 11:38:39 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:38:39 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:38:39 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:38:39 INFO  InsertRfidData:98 - Student morning session doesnot exists....
+2014-01-24 11:38:39 INFO  InsertRfidData:101 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 11:38:39 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36898 ] Thread-3 terminated abruptly
+2014-01-24 11:38:39 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:39:43 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:39:45 INFO  App:33 - connection Established with --> /127.0.0.1:36900
+2014-01-24 11:39:45 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:39:45 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:39:45 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:39:45 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 11:39:45 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:39:45 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:39:45 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:39:45 INFO  InsertRfidData:99 - Student morning session doesnot exists....
+2014-01-24 11:39:45 INFO  InsertRfidData:102 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 11:39:45 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36900 ] Thread-3 terminated abruptly
+2014-01-24 11:39:45 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:44:08 INFO  App:33 - connection Established with --> /127.0.0.1:36903
+2014-01-24 11:44:08 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:44:08 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:44:08 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:44:08 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 11:44:08 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:44:08 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:44:08 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:44:08 INFO  InsertRfidData:99 - Student morning session doesnot exists....
+2014-01-24 11:44:08 INFO  InsertRfidData:102 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 11:44:08 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36903 ] Thread-4 terminated abruptly
+2014-01-24 11:44:08 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:47:04 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:47:07 INFO  App:33 - connection Established with --> /127.0.0.1:36905
+2014-01-24 11:47:07 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:47:07 INFO  InsertRfidData:49 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:47:07 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:47:07 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 11:47:07 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:47:07 INFO  StudentMorningSession:35 - reply ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:47:07 INFO  InsertRfidData:91 - Student rfid info ==> rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 11:47:07 INFO  InsertRfidData:100 - Student morning session doesnot exists....
+2014-01-24 11:47:07 INFO  InsertRfidData:103 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 11:47:07 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36905 ] Thread-3 terminated abruptly
+2014-01-24 11:47:07 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 11:59:55 INFO  App:24 - created server --> server listening.....
+2014-01-24 11:59:58 INFO  App:33 - connection Established with --> /127.0.0.1:36912
+2014-01-24 11:59:58 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 11:59:58 INFO  InsertRfidData:52 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 11:59:58 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:59:58 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 11:59:58 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 11:59:58 INFO  InsertRfidData:95 - List --> null
+2014-01-24 11:59:58 INFO  InsertRfidData:118 - EveningSession is null
+2014-01-24 11:59:58 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36912 ] Thread-3 terminated abruptly
+2014-01-24 11:59:58 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:01:58 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:02:02 INFO  App:33 - connection Established with --> /127.0.0.1:36917
+2014-01-24 12:02:02 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:02:02 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:02:02 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:02:02 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:02:02 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:02:02 INFO  InsertRfidData:93 - Student rfid info ==> [Lcom.student.data.rfid_info;@74a83c5d
+2014-01-24 12:02:02 INFO  InsertRfidData:105 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:02:02 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36917 ] Thread-3 terminated abruptly
+2014-01-24 12:02:02 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:04:45 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:04:47 INFO  App:33 - connection Established with --> /127.0.0.1:36923
+2014-01-24 12:04:47 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:04:47 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:04:47 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:04:47 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:04:47 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:04:47 INFO  InsertRfidData:93 - Student rfid info ==> [Lcom.student.data.rfid_info;@41d1d49d
+2014-01-24 12:04:47 INFO  InsertRfidData:98 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=01:24:23, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 12:04:47 INFO  InsertRfidData:112 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:04:47 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36923 ] Thread-3 terminated abruptly
+2014-01-24 12:04:47 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:06:57 INFO  App:33 - connection Established with --> /127.0.0.1:36925
+2014-01-24 12:06:57 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:06:57 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:06:57 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:06:57 INFO  DriverRfid:34 - reply ==> null
+2014-01-24 12:06:57 INFO  InsertRfidData:122 - MorningSession is null
+2014-01-24 12:06:57 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36925 ] Thread-4 terminated abruptly
+2014-01-24 12:06:57 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:07:33 INFO  App:33 - connection Established with --> /127.0.0.1:36927
+2014-01-24 12:07:33 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:07:33 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:07:33 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:07:33 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:07:33 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:07:33 INFO  InsertRfidData:93 - Student rfid info ==> null
+2014-01-24 12:07:33 INFO  InsertRfidData:118 - EveningSession is null
+2014-01-24 12:07:33 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36927 ] Thread-5 terminated abruptly
+2014-01-24 12:07:33 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:08:30 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:08:33 INFO  App:33 - connection Established with --> /127.0.0.1:36929
+2014-01-24 12:08:33 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:08:33 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:08:33 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:08:33 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:08:33 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:08:33 INFO  InsertRfidData:93 - Student rfid info ==> null
+2014-01-24 12:08:33 INFO  InsertRfidData:121 - EveningSession is null
+2014-01-24 12:08:33 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36929 ] Thread-3 terminated abruptly
+2014-01-24 12:08:33 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:09:13 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:09:15 INFO  App:33 - connection Established with --> /127.0.0.1:36931
+2014-01-24 12:09:15 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:09:15 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:09:15 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:09:15 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:09:15 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:09:15 INFO  InsertRfidData:93 - Student rfid info ==> null
+2014-01-24 12:09:15 INFO  InsertRfidData:104 - Student morning session doesnot exists....
+2014-01-24 12:09:15 INFO  InsertRfidData:107 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:09:15 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36931 ] Thread-3 terminated abruptly
+2014-01-24 12:09:15 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:14:39 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:14:41 INFO  App:33 - connection Established with --> /127.0.0.1:36934
+2014-01-24 12:14:41 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:14:41 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:14:41 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:14:41 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:14:41 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:14:41 INFO  InsertRfidData:93 - Student rfid info ==> null
+2014-01-24 12:14:41 INFO  InsertRfidData:119 - Student morning session doesnot exists....
+2014-01-24 12:14:41 INFO  InsertRfidData:122 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:14:41 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36934 ] Thread-3 terminated abruptly
+2014-01-24 12:14:41 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:16:27 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:16:29 INFO  App:33 - connection Established with --> /127.0.0.1:36936
+2014-01-24 12:16:29 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:16:29 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:16:29 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:16:29 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:16:29 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:16:29 INFO  InsertRfidData:93 - Student rfid info ==> null
+2014-01-24 12:16:29 INFO  InsertRfidData:120 - Student morning session doesnot exists....
+2014-01-24 12:16:29 INFO  InsertRfidData:123 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:16:29 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36936 ] Thread-3 terminated abruptly
+2014-01-24 12:16:29 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:18:11 INFO  App:33 - connection Established with --> /127.0.0.1:36938
+2014-01-24 12:18:11 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:18:11 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:18:11 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:18:11 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:18:11 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:18:11 INFO  InsertRfidData:93 - Student rfid info ==> [Lcom.student.data.rfid_info;@35080a9e
+2014-01-24 12:18:11 INFO  InsertRfidData:99 - Student morning session  exists....
+2014-01-24 12:18:11 INFO  InsertRfidData:114 - Student morning in bound doesnot exists...
+2014-01-24 12:18:11 INFO  InsertRfidData:123 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:18:11 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36938 ] Thread-4 terminated abruptly
+2014-01-24 12:18:11 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:18:54 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:19:01 INFO  App:33 - connection Established with --> /127.0.0.1:36940
+2014-01-24 12:19:01 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:19:01 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:19:01 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:19:01 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:19:01 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:19:01 INFO  InsertRfidData:93 - Student rfid info ==> [Lcom.student.data.rfid_info;@25956b11
+2014-01-24 12:19:01 INFO  InsertRfidData:99 - RFID_info  exists in collection ....
+2014-01-24 12:19:01 INFO  InsertRfidData:114 - Student morning in bound doesnot exists...
+2014-01-24 12:19:01 INFO  InsertRfidData:123 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:19:01 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36940 ] Thread-3 terminated abruptly
+2014-01-24 12:19:01 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:19:35 INFO  App:33 - connection Established with --> /127.0.0.1:36942
+2014-01-24 12:19:35 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:19:35 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:19:35 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:19:35 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:19:35 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:19:35 INFO  InsertRfidData:93 - Student rfid info ==> [Lcom.student.data.rfid_info;@2bcc84c1
+2014-01-24 12:19:35 INFO  InsertRfidData:99 - RFID_info  exists in collection ....
+2014-01-24 12:19:35 INFO  InsertRfidData:105 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=01:24:23, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 12:19:35 INFO  InsertRfidData:111 - Student morning in bound exists...
+2014-01-24 12:19:35 INFO  InsertRfidData:123 - Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:19:35 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36942 ] Thread-4 terminated abruptly
+2014-01-24 12:19:35 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:20:48 INFO  App:24 - created server --> server listening.....
+2014-01-24 12:20:50 INFO  App:33 - connection Established with --> /127.0.0.1:36944
+2014-01-24 12:20:50 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 12:20:50 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 12:20:50 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:20:50 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:20:50 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:20:50 INFO  InsertRfidData:93 - Student rfid info ==> [Lcom.student.data.rfid_info;@51133980
+2014-01-24 12:20:50 INFO  InsertRfidData:99 - RFID_info  exists in collection ....
+2014-01-24 12:20:50 INFO  InsertRfidData:105 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=01:24:23, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 12:20:50 INFO  InsertRfidData:111 - Student morning in bound exists...
+2014-01-24 12:20:50 INFO  InsertRfidData:123 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 12:20:50 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:36944 ] Thread-3 terminated abruptly
+2014-01-24 12:20:50 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 12:30:42 INFO  InsertStudentData:13 - Hello World
+2014-01-24 12:33:25 INFO  InsertStudentData:34 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 12:33:25 INFO  InsertStudentData:38 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 12:44:37 INFO  InsertStudentData:47 - rfid_info [rfid=null, morning_in_bound=null, morning_out_bound=null, evening_in_bound=null, evening_out_bound=null]
+2014-01-24 12:49:28 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:50:17 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:50:54 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:51:09 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:51:33 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:51:55 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:52:28 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:52:51 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:53:47 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:54:38 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}]}, Fields: null, Sort: null
+2014-01-24 12:54:38 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:55:47 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014", "$in" : [ { $java : org.springframework.data.mongodb.core.query.Criteria@76d4e53a } ] }, Fields: null, Sort: null
+2014-01-24 12:57:08 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:57:08 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:57:30 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:57:30 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:57:42 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:57:42 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:58:16 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:58:16 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:58:24 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:58:24 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:59:04 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:59:04 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:59:29 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:59:29 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@2b07ce92
+2014-01-24 12:59:29 INFO  InsertStudentData:52 - N/A
+2014-01-24 12:59:47 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 12:59:47 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@2b07ce92
+2014-01-24 12:59:47 INFO  InsertStudentData:52 - N/A
+2014-01-24 13:00:45 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 13:00:45 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@128d1417
+2014-01-24 13:00:45 INFO  InsertStudentData:52 - N/A
+2014-01-24 13:01:12 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014", "$elemMatch" : { "rfid_info" : { "$in" : [ { $java : org.springframework.data.mongodb.core.query.Criteria@347236df } ] } } }, Fields: null, Sort: null
+2014-01-24 13:01:12 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@5440bbb4
+2014-01-24 13:01:21 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014", "$elemMatch" : { "rfid_info" : { $java : org.springframework.data.mongodb.core.query.Criteria@347236df } } }, Fields: null, Sort: null
+2014-01-24 13:01:21 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@6c53cf68
+2014-01-24 13:01:33 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 13:01:33 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@17fa385b
+2014-01-24 13:01:33 INFO  InsertStudentData:52 - N/A
+2014-01-24 13:02:31 INFO  InsertStudentData:49 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 13:02:31 INFO  InsertStudentData:51 - org.springframework.data.mongodb.core.query.Update@1a0b8332
+2014-01-24 13:02:31 INFO  InsertStudentData:53 - N/A
+2014-01-24 13:03:52 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 13:03:52 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@164cfb1d
+2014-01-24 13:03:52 INFO  InsertStudentData:52 - N/A
+2014-01-24 13:04:18 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 13:04:18 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@d8ae950
+2014-01-24 13:04:18 INFO  InsertStudentData:52 - N/A
+2014-01-24 13:04:43 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 13:04:43 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@5780208f
+2014-01-24 13:04:43 INFO  InsertStudentData:52 - N/A
+2014-01-24 13:05:00 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 13:05:00 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@21ed22af
+2014-01-24 13:05:00 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:03:34 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 14:03:34 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@128d1417
+2014-01-24 14:03:34 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:03:55 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.$.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 14:03:55 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@1a42c7d3
+2014-01-24 14:03:55 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:04:46 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid_info" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:04:46 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@2b07ce92
+2014-01-24 14:04:46 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:05:00 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:05:00 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@3e3e4203
+2014-01-24 14:05:00 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:06:55 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:06:55 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@6d69d193
+2014-01-24 14:06:55 INFO  InsertStudentData:52 - 
+2014-01-24 14:07:08 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:07:08 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@2b07ce92
+2014-01-24 14:07:08 INFO  InsertStudentData:52 - { "serverUsed" : "/127.0.0.1:27017" , "updatedExisting" : false , "n" : 0 , "connectionId" : 72 , "err" :  null  , "ok" : 1.0}
+2014-01-24 14:07:43 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:07:43 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@d8ae950
+2014-01-24 14:07:43 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:14:16 INFO  InsertStudentData:45 - Query --> Query: { "$and" : [ { "_id" : "BUS_101:24-01-2014"} , { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:14:24 INFO  InsertStudentData:45 - Query: { "$and" : [ { "_id" : "BUS_101:24-01-2014"} , { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:18:04 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:18:04 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@17fa385b
+2014-01-24 14:18:04 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:19:00 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.$" : { "$elemMatch" : { "rfid" : "0004716436"}}}}, Fields: null, Sort: null
+2014-01-24 14:19:00 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@4349cbf4
+2014-01-24 14:19:00 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:21:18 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.$.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 14:21:18 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@6c21fb84
+2014-01-24 14:21:18 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:21:49 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.$.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 14:21:49 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@2b07ce92
+2014-01-24 14:21:49 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:22:43 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$elemMatch" : { "rfid_info.$.rfid" : "0004716436"}}, Fields: null, Sort: null
+2014-01-24 14:22:43 INFO  InsertStudentData:50 - org.springframework.data.mongodb.core.query.Update@2b07ce92
+2014-01-24 14:22:43 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:25:40 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}]}, Fields: null, Sort: null
+2014-01-24 14:25:40 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:26:07 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}]}, Fields: null, Sort: null
+2014-01-24 14:26:07 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:27:02 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}]}, Fields: null, Sort: null
+2014-01-24 14:27:02 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:27:50 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:27:50 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:28:14 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:28:14 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:28:34 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:28:34 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:28:45 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:28:45 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:29:02 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:29:03 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:30:06 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:30:06 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:33:47 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:33:47 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:34:04 INFO  App:27 - Cannot create server with port [ 10000 ] , PORT already in use!
+2014-01-24 14:34:11 INFO  App:33 - connection Established with --> /127.0.0.1:37556
+2014-01-24 14:34:11 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:34:11 INFO  InsertRfidData:50 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:34:11 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:34:11 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:34:11 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:34:11 INFO  InsertRfidData:93 - Student rfid info ==> null
+2014-01-24 14:34:11 INFO  InsertRfidData:120 - Student morning session doesnot exists....
+2014-01-24 14:34:11 INFO  InsertRfidData:123 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:34:11 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37556 ] Thread-4 terminated abruptly
+2014-01-24 14:34:11 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:34:25 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:34:28 INFO  App:33 - connection Established with --> /127.0.0.1:37558
+2014-01-24 14:34:28 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:34:28 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:34:28 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:34:28 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:34:28 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:34:28 INFO  InsertRfidData:155 - Student rfid info ==> null
+2014-01-24 14:34:28 INFO  InsertRfidData:205 - Student morning session doesnot exists....
+2014-01-24 14:34:28 INFO  InsertRfidData:208 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:34:28 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37558 ] Thread-3 terminated abruptly
+2014-01-24 14:34:28 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:36:40 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:36:44 INFO  App:33 - connection Established with --> /127.0.0.1:37562
+2014-01-24 14:36:44 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:36:44 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:36:44 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:36:44 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:36:44 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:36:44 INFO  InsertRfidData:172 - Student rfid info ==> null
+2014-01-24 14:36:44 INFO  InsertRfidData:222 - Student morning session doesnot exists....
+2014-01-24 14:36:44 INFO  InsertRfidData:225 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:36:44 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37562 ] Thread-3 terminated abruptly
+2014-01-24 14:36:44 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:38:08 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:38:13 INFO  App:33 - connection Established with --> /127.0.0.1:37564
+2014-01-24 14:38:13 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:38:13 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:38:13 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:38:13 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:38:13 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:38:13 INFO  InsertRfidData:156 - Student rfid info ==> null
+2014-01-24 14:38:13 INFO  InsertRfidData:205 - Student morning in bound doesnot exists...
+2014-01-24 14:38:13 INFO  InsertRfidData:218 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:38:13 INFO  InsertRfidData:222 - Student morning session doesnot exists....
+2014-01-24 14:38:13 INFO  InsertRfidData:225 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:38:13 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37564 ] Thread-3 terminated abruptly
+2014-01-24 14:38:13 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:39:14 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:39:17 INFO  App:33 - connection Established with --> /127.0.0.1:37566
+2014-01-24 14:39:17 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:39:17 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:39:17 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:39:17 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:39:17 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:39:17 INFO  InsertRfidData:156 - Student rfid info ==> null
+2014-01-24 14:39:17 INFO  InsertRfidData:205 - Student morning in bound doesnot exists...
+2014-01-24 14:39:17 INFO  InsertRfidData:218 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 14:39:17 INFO  InsertRfidData:222 - Student morning session doesnot exists....
+2014-01-24 14:39:17 INFO  InsertRfidData:225 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:39:17 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37566 ] Thread-3 terminated abruptly
+2014-01-24 14:39:17 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:40:59 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:41:02 INFO  App:33 - connection Established with --> /127.0.0.1:37568
+2014-01-24 14:41:02 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:41:02 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:41:02 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:41:02 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:41:02 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:41:02 INFO  InsertRfidData:156 - Student rfid info ==> null
+2014-01-24 14:41:02 INFO  InsertRfidData:205 - Student morning in bound doesnot exists...
+2014-01-24 14:41:02 INFO  InsertRfidData:215 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:41:02 INFO  InsertRfidData:219 - Student morning session doesnot exists....
+2014-01-24 14:41:02 INFO  InsertRfidData:222 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:41:02 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37568 ] Thread-3 terminated abruptly
+2014-01-24 14:41:02 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:43:36 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:43:39 INFO  App:33 - connection Established with --> /127.0.0.1:37571
+2014-01-24 14:43:39 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:43:39 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:43:39 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:43:39 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:43:39 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:43:39 INFO  InsertRfidData:156 - Student rfid info ==> null
+2014-01-24 14:43:39 INFO  InsertRfidData:205 - Student morning in bound doesnot exists...
+2014-01-24 14:43:39 INFO  InsertRfidData:215 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:43:39 INFO  InsertRfidData:219 - Student morning session doesnot exists....
+2014-01-24 14:43:39 INFO  InsertRfidData:222 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:43:39 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37571 ] Thread-3 terminated abruptly
+2014-01-24 14:43:39 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:46:16 INFO  App:24 - created server --> server listening.....
+2014-01-24 14:46:20 INFO  App:33 - connection Established with --> /127.0.0.1:37585
+2014-01-24 14:46:20 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:46:20 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:46:20 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:46:20 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:46:20 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:46:20 INFO  InsertRfidData:156 - Student rfid info ==> null
+2014-01-24 14:46:20 INFO  InsertRfidData:205 - Student morning in bound doesnot exists...
+2014-01-24 14:46:20 INFO  InsertRfidData:215 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:46:20 INFO  InsertRfidData:219 - Student morning session doesnot exists....
+2014-01-24 14:46:20 INFO  InsertRfidData:222 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 14:46:20 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37585 ] Thread-3 terminated abruptly
+2014-01-24 14:46:20 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:46:59 INFO  InsertStudentData:48 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info" : { "$elemMatch" : { "rfid" : "0004716436"}}}]}, Fields: null, Sort: null
+2014-01-24 14:46:59 INFO  InsertStudentData:52 - N/A
+2014-01-24 14:49:45 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:49:45 INFO  InsertStudentData:49 - N/A
+2014-01-24 14:50:10 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:50:10 INFO  InsertStudentData:49 - N/A
+2014-01-24 14:50:40 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:50:40 INFO  InsertStudentData:49 - N/A
+2014-01-24 14:50:55 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:50:55 INFO  InsertStudentData:49 - N/A
+2014-01-24 14:51:07 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:51:07 INFO  InsertStudentData:49 - N/A
+2014-01-24 14:55:23 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:55:23 INFO  InsertStudentData:49 - N/A
+2014-01-24 14:55:28 INFO  App:33 - connection Established with --> /127.0.0.1:37826
+2014-01-24 14:55:28 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:55:28 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:55:28 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:55:28 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:55:28 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:55:28 INFO  InsertRfidData:156 - Student rfid info ==> [Lcom.student.data.rfid_info;@5250c5b0
+2014-01-24 14:55:28 INFO  InsertRfidData:162 - RFID_info  exists in collection ....
+2014-01-24 14:55:28 INFO  InsertRfidData:228 - EveningSession is null
+2014-01-24 14:55:28 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37826 ] Thread-4 terminated abruptly
+2014-01-24 14:55:28 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:55:42 INFO  App:33 - connection Established with --> /127.0.0.1:37828
+2014-01-24 14:55:42 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 14:55:42 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 14:55:42 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:55:42 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 14:55:42 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 14:55:42 INFO  InsertRfidData:156 - Student rfid info ==> [Lcom.student.data.rfid_info;@15b5b67e
+2014-01-24 14:55:42 INFO  InsertRfidData:162 - RFID_info  exists in collection ....
+2014-01-24 14:55:42 INFO  InsertRfidData:228 - EveningSession is null
+2014-01-24 14:55:42 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:37828 ] Thread-5 terminated abruptly
+2014-01-24 14:55:42 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 14:56:23 INFO  InsertStudentData:45 - Query --> Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: null
+2014-01-24 14:56:23 INFO  InsertStudentData:49 - N/A
+2014-01-24 15:28:16 INFO  App:24 - created server --> server listening.....
+2014-01-24 15:28:29 INFO  App:33 - connection Established with --> /127.0.0.1:38239
+2014-01-24 15:28:29 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:28:29 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:28:29 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:28:29 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 15:28:29 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:28:29 INFO  InsertRfidData:156 - Student rfid info ==> null
+2014-01-24 15:28:29 INFO  InsertRfidData:205 - Student morning in bound doesnot exists...
+2014-01-24 15:28:29 INFO  InsertRfidData:217 - created morning inbound for 0004716436
+2014-01-24 15:28:29 INFO  InsertRfidData:220 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:28:29 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38239 ] Thread-3 terminated abruptly
+2014-01-24 15:28:29 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:28:52 INFO  App:33 - connection Established with --> /127.0.0.1:38241
+2014-01-24 15:28:52 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:28:52 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:28:52 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:28:52 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 15:28:52 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:28:52 INFO  InsertRfidData:156 - Student rfid info ==> [Lcom.student.data.rfid_info;@16c7d858
+2014-01-24 15:28:52 INFO  InsertRfidData:162 - RFID_info  exists in collection ....
+2014-01-24 15:28:52 INFO  InsertRfidData:168 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:28:29, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:28:52 INFO  InsertRfidData:174 - Student morning in bound exists...
+2014-01-24 15:28:52 INFO  InsertRfidData:220 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:28:52 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38241 ] Thread-4 terminated abruptly
+2014-01-24 15:28:52 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:30:59 INFO  App:33 - connection Established with --> /127.0.0.1:38243
+2014-01-24 15:30:59 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:30:59 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:30:59 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:30:59 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 15:30:59 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:30:59 INFO  InsertRfidData:156 - Student rfid info ==> [Lcom.student.data.rfid_info;@b98653a
+2014-01-24 15:30:59 INFO  InsertRfidData:162 - RFID_info  exists in collection ....
+2014-01-24 15:30:59 INFO  InsertRfidData:168 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:28:29, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:30:59 INFO  InsertRfidData:174 - Student morning in bound exists...
+2014-01-24 15:30:59 INFO  InsertRfidData:220 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:30:59 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38243 ] Thread-5 terminated abruptly
+2014-01-24 15:30:59 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:31:40 INFO  App:24 - created server --> server listening.....
+2014-01-24 15:31:45 INFO  App:33 - connection Established with --> /127.0.0.1:38245
+2014-01-24 15:31:45 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:31:45 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:31:45 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:31:45 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 15:31:45 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:31:45 INFO  InsertRfidData:156 - Student rfid info ==> [Lcom.student.data.rfid_info;@1da5cff8
+2014-01-24 15:31:45 INFO  InsertRfidData:162 - RFID_info  exists in collection ....
+2014-01-24 15:31:45 INFO  InsertRfidData:168 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:28:29, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:31:45 INFO  InsertRfidData:174 - Student morning in bound exists...
+2014-01-24 15:31:45 INFO  InsertRfidData:193 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 15:31:45 INFO  InsertRfidData:197 - created morning outbound for 0004716436
+2014-01-24 15:31:45 INFO  InsertRfidData:237 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:31:45 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38245 ] Thread-3 terminated abruptly
+2014-01-24 15:31:45 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:33:20 INFO  App:24 - created server --> server listening.....
+2014-01-24 15:33:22 INFO  App:33 - connection Established with --> /127.0.0.1:38248
+2014-01-24 15:33:22 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:33:22 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:33:22 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:33:22 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=evening [in_bound=11:56:58, out_bound=11:56:58]]]
+2014-01-24 15:33:22 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:33:22 INFO  InsertRfidData:188 - Student rfid info ==> [Lcom.student.data.rfid_info;@576d5155
+2014-01-24 15:33:22 INFO  InsertRfidData:194 - RFID_info  exists in collection ....
+2014-01-24 15:33:22 INFO  InsertRfidData:200 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:28:29, morning_out_bound=15:31:45, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:33:22 INFO  InsertRfidData:206 - Student morning in bound exists...
+2014-01-24 15:33:22 INFO  InsertRfidData:209 - Student Morning session cannot be inserted beacuse [ multiple RFID tapping ]
+2014-01-24 15:33:22 INFO  InsertRfidData:269 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:33:22 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38248 ] Thread-3 terminated abruptly
+2014-01-24 15:33:22 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:34:27 INFO  App:24 - created server --> server listening.....
+2014-01-24 15:34:30 INFO  App:33 - connection Established with --> /127.0.0.1:38250
+2014-01-24 15:34:30 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:34:30 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:34:30 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:34:30 INFO  DriverRfid:34 - reply ==> null
+2014-01-24 15:34:30 INFO  InsertRfidData:279 - MorningSession is null
+2014-01-24 15:34:30 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38250 ] Thread-3 terminated abruptly
+2014-01-24 15:34:30 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:35:39 INFO  App:33 - connection Established with --> /127.0.0.1:38252
+2014-01-24 15:35:39 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:35:39 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:35:39 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:35:39 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 15:35:39 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:35:39 INFO  InsertRfidData:188 - Student rfid info ==> null
+2014-01-24 15:35:39 INFO  InsertRfidData:254 - Student morning in bound doesnot exists...
+2014-01-24 15:35:39 INFO  InsertRfidData:266 - created morning inbound for 0004716436
+2014-01-24 15:35:39 INFO  InsertRfidData:269 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:35:39 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38252 ] Thread-4 terminated abruptly
+2014-01-24 15:35:39 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:35:50 INFO  App:33 - connection Established with --> /127.0.0.1:38254
+2014-01-24 15:35:50 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:35:50 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:35:50 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:35:50 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 15:35:50 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:35:50 INFO  InsertRfidData:188 - Student rfid info ==> [Lcom.student.data.rfid_info;@38009ade
+2014-01-24 15:35:50 INFO  InsertRfidData:194 - RFID_info  exists in collection ....
+2014-01-24 15:35:50 INFO  InsertRfidData:200 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:35:39, morning_out_bound=no, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:35:50 INFO  InsertRfidData:206 - Student morning in bound exists...
+2014-01-24 15:35:50 INFO  InsertRfidData:225 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 15:35:50 INFO  InsertRfidData:229 - created morning outbound for 0004716436
+2014-01-24 15:35:50 INFO  InsertRfidData:269 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:35:50 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38254 ] Thread-5 terminated abruptly
+2014-01-24 15:35:50 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:35:55 INFO  App:33 - connection Established with --> /127.0.0.1:38256
+2014-01-24 15:35:55 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:35:55 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:35:55 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:35:55 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=no], evening=null]]
+2014-01-24 15:35:55 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:35:55 INFO  InsertRfidData:188 - Student rfid info ==> [Lcom.student.data.rfid_info;@43b38ff1
+2014-01-24 15:35:55 INFO  InsertRfidData:194 - RFID_info  exists in collection ....
+2014-01-24 15:35:55 INFO  InsertRfidData:200 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:35:39, morning_out_bound=15:35:50, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:35:55 INFO  InsertRfidData:206 - Student morning in bound exists...
+2014-01-24 15:35:55 INFO  InsertRfidData:209 - Student Morning session cannot be inserted beacuse [ multiple RFID tapping ]
+2014-01-24 15:35:55 INFO  InsertRfidData:269 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:35:55 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38256 ] Thread-6 terminated abruptly
+2014-01-24 15:35:55 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:37:39 INFO  App:33 - connection Established with --> /127.0.0.1:38258
+2014-01-24 15:37:39 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:37:39 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:37:39 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:37:39 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=null]]
+2014-01-24 15:37:39 INFO  InsertRfidData:84 - Morning out bound  exists...
+2014-01-24 15:37:39 INFO  InsertRfidData:275 - EveningSession is null
+2014-01-24 15:37:39 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38258 ] Thread-7 terminated abruptly
+2014-01-24 15:37:39 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:38:47 INFO  App:33 - connection Established with --> /127.0.0.1:38260
+2014-01-24 15:38:47 INFO  ServerThread:49 - Data Received is [ R,0004716436 ]
+2014-01-24 15:38:47 INFO  InsertRfidData:57 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-24 15:38:47 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:38:47 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 15:38:47 INFO  InsertRfidData:84 - Morning out bound  exists...
+2014-01-24 15:38:47 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 15:38:47 INFO  InsertRfidData:100 - Student rfid info ==> [Lcom.student.data.rfid_info;@62c3135c
+2014-01-24 15:38:47 INFO  InsertRfidData:106 - RFID_info  exists in collection ....
+2014-01-24 15:38:47 INFO  InsertRfidData:112 - Single student info --> rfid_info [rfid=0004716436, morning_in_bound=15:35:39, morning_out_bound=15:35:50, evening_in_bound=no, evening_out_bound=no]
+2014-01-24 15:38:47 INFO  InsertRfidData:118 - Student morning in bound exists...
+2014-01-24 15:38:47 INFO  InsertRfidData:142 - Query --> Query: { "_id" : "BUS_101:24-01-2014" , "$and" : [ { "rfid_info.rfid" : "0004716436"}]}, Fields: null, Sort: null
+2014-01-24 15:38:47 INFO  InsertRfidData:146 - created evening outbound for 0004716436
+2014-01-24 15:38:47 INFO  InsertRfidData:176 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-24 15:38:47 INFO  InsertRfidData:177 - Driver Evening in bound  exists... but not evening out bound so insert student data
+2014-01-24 15:38:47 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38260 ] Thread-8 terminated abruptly
+2014-01-24 15:38:47 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 15:54:53 INFO  App:33 - connection Established with --> /127.0.0.1:38264
+2014-01-24 15:54:53 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 15:54:53 INFO  InsertRfidData:284 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 15:54:53 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38264 ] Thread-9 terminated abruptly
+2014-01-24 15:54:53 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:02:51 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:02:57 INFO  App:33 - connection Established with --> /127.0.0.1:38268
+2014-01-24 16:02:57 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:02:57 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:02:57 INFO  InsertRfidData:314 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:02:57 INFO  InsertRfidData:318 - OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]]
+2014-01-24 16:02:57 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38268 ] Thread-3 terminated abruptly
+2014-01-24 16:02:57 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:04:04 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:04:05 INFO  App:33 - connection Established with --> /127.0.0.1:38271
+2014-01-24 16:04:06 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:04:06 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:04:06 INFO  InsertRfidData:314 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:04:06 INFO  InsertRfidData:319 - driver_info [morning=morning [in_bound=11:56:58, out_bound=11:56:58], evening=evening [in_bound=11:56:58, out_bound=no]]
+2014-01-24 16:04:06 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38271 ] Thread-3 terminated abruptly
+2014-01-24 16:04:06 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:07:20 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:07:26 INFO  App:33 - connection Established with --> /127.0.0.1:38275
+2014-01-24 16:07:26 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:07:26 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:07:26 INFO  InsertRfidData:314 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:07:26 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-24 16:07:26 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:38275 ] Thread-3 terminated abruptly
+2014-01-24 16:07:26 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:18:10 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:18:20 INFO  App:33 - connection Established with --> /127.0.0.1:49998
+2014-01-24 16:18:20 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:18:20 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:18:20 INFO  InsertRfidData:314 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:18:20 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-24 16:18:20 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:49998 ] Thread-3 terminated abruptly
+2014-01-24 16:18:20 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:23:21 INFO  App:33 - connection Established with --> /127.0.0.1:50007
+2014-01-24 16:23:21 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:23:21 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:23:21 INFO  InsertRfidData:314 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:23:21 INFO  InsertRfidData:320 - 
+2014-01-24 16:23:21 INFO  InsertRfidData:328 - 
+2014-01-24 16:23:21 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50007 ] Thread-4 terminated abruptly
+2014-01-24 16:23:21 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:24:55 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:24:57 INFO  App:33 - connection Established with --> /127.0.0.1:50012
+2014-01-24 16:24:57 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:24:57 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:24:57 INFO  InsertRfidData:314 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:24:57 INFO  InsertRfidData:320 - 
+2014-01-24 16:24:57 INFO  InsertRfidData:325 - Driver info does not exists...
+2014-01-24 16:24:57 INFO  InsertRfidData:331 - 
+2014-01-24 16:24:57 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50012 ] Thread-3 terminated abruptly
+2014-01-24 16:24:57 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:37:59 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:38:03 INFO  App:33 - connection Established with --> /127.0.0.1:50024
+2014-01-24 16:38:03 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:38:03 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:38:03 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:38:03 INFO  InsertRfidData:323 - 
+2014-01-24 16:38:03 INFO  InsertRfidData:344 - Created driver morning in bound...
+2014-01-24 16:38:03 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50024 ] Thread-3 terminated abruptly
+2014-01-24 16:38:03 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:39:24 INFO  App:24 - created server --> server listening.....
+2014-01-24 16:39:29 INFO  App:33 - connection Established with --> /127.0.0.1:50026
+2014-01-24 16:39:29 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:39:29 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:39:29 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:39:29 INFO  InsertRfidData:323 - 
+2014-01-24 16:39:29 INFO  InsertRfidData:344 - Created driver morning in bound...
+2014-01-24 16:39:29 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50026 ] Thread-3 terminated abruptly
+2014-01-24 16:39:29 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:39:46 INFO  App:33 - connection Established with --> /127.0.0.1:50028
+2014-01-24 16:39:46 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:39:46 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:39:46 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:39:46 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=16:39:29, out_bound=no], evening=evening [in_bound=no, out_bound=no]]
+2014-01-24 16:39:46 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50028 ] Thread-4 terminated abruptly
+2014-01-24 16:39:46 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 16:39:58 INFO  App:33 - connection Established with --> /127.0.0.1:50030
+2014-01-24 16:39:58 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 16:39:58 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 16:39:58 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 16:39:59 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=16:39:29, out_bound=no], evening=evening [in_bound=no, out_bound=no]]
+2014-01-24 16:39:59 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50030 ] Thread-5 terminated abruptly
+2014-01-24 16:39:59 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:28:41 INFO  App:24 - created server --> server listening.....
+2014-01-24 17:29:12 INFO  App:33 - connection Established with --> /127.0.0.1:50090
+2014-01-24 17:29:12 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:29:12 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:29:12 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:29:13 INFO  ServerThread:77 - Exception with data ... Exception type [null ]
+2014-01-24 17:29:13 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50090 ] Thread-3 terminated abruptly
+2014-01-24 17:29:13 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:32:36 INFO  App:33 - connection Established with --> /127.0.0.1:50136
+2014-01-24 17:32:36 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:32:36 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:32:36 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:32:36 INFO  InsertRfidData:323 - 
+2014-01-24 17:32:36 INFO  InsertRfidData:386 - Created driver morning in bound...
+2014-01-24 17:32:36 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50136 ] Thread-4 terminated abruptly
+2014-01-24 17:32:36 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:35:01 INFO  App:24 - created server --> server listening.....
+2014-01-24 17:35:06 INFO  App:33 - connection Established with --> /127.0.0.1:50140
+2014-01-24 17:35:06 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:35:07 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:35:07 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:35:07 INFO  InsertRfidData:323 - 
+2014-01-24 17:35:07 INFO  InsertRfidData:386 - Created driver morning in bound...
+2014-01-24 17:35:07 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50140 ] Thread-3 terminated abruptly
+2014-01-24 17:35:07 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:35:31 INFO  App:33 - connection Established with --> /127.0.0.1:50142
+2014-01-24 17:35:31 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:35:31 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:35:31 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:35:31 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=17:35:07, out_bound=no], evening=evening [in_bound=no, out_bound=no]]
+2014-01-24 17:35:31 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50142 ] Thread-4 terminated abruptly
+2014-01-24 17:35:31 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:35:38 INFO  App:33 - connection Established with --> /127.0.0.1:50144
+2014-01-24 17:35:38 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:35:38 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:35:38 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:35:38 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=17:35:07, out_bound=17:35:31], evening=evening [in_bound=no, out_bound=no]]
+2014-01-24 17:35:38 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50144 ] Thread-5 terminated abruptly
+2014-01-24 17:35:38 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:37:51 INFO  App:24 - created server --> server listening.....
+2014-01-24 17:37:57 INFO  App:33 - connection Established with --> /127.0.0.1:50146
+2014-01-24 17:37:57 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:37:57 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:37:57 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:37:57 INFO  InsertRfidData:323 - 
+2014-01-24 17:37:57 INFO  InsertRfidData:386 - Created driver morning in bound...
+2014-01-24 17:37:57 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50146 ] Thread-3 terminated abruptly
+2014-01-24 17:37:57 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:38:08 INFO  App:33 - connection Established with --> /127.0.0.1:50148
+2014-01-24 17:38:08 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:38:08 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:38:08 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:38:08 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=17:37:57, out_bound=no], evening=evening [in_bound=no, out_bound=no]]
+2014-01-24 17:38:08 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50148 ] Thread-4 terminated abruptly
+2014-01-24 17:38:08 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:38:09 INFO  App:33 - connection Established with --> /127.0.0.1:50150
+2014-01-24 17:38:09 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:38:09 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:38:09 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:38:09 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=17:37:57, out_bound=17:38:08], evening=evening [in_bound=no, out_bound=no]]
+2014-01-24 17:38:09 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50150 ] Thread-5 terminated abruptly
+2014-01-24 17:38:09 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:38:10 INFO  App:33 - connection Established with --> /127.0.0.1:50152
+2014-01-24 17:38:10 INFO  ServerThread:49 - Data Received is [ R,0004658950 ]
+2014-01-24 17:38:10 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-24 17:38:10 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:24-01-2014"}, Fields: null, Sort: { }
+2014-01-24 17:38:10 INFO  InsertRfidData:323 - driver_info [morning=morning [in_bound=17:37:57, out_bound=17:38:08], evening=evening [in_bound=17:38:09, out_bound=no]]
+2014-01-24 17:38:10 INFO  InsertRfidData:347 - Today's session closed....
+2014-01-24 17:38:10 INFO  ServerThread:85 - IO Error/ Client [/127.0.0.1:50152 ] Thread-6 terminated abruptly
+2014-01-24 17:38:10 INFO  ServerThread:107 - Connection Closing..
+2014-01-24 17:59:52 INFO  App:25 - created server --> server listening.....
+2014-01-24 18:00:27 INFO  App:34 - connection Established with --> /127.0.0.1:50171
+2014-01-24 18:00:27 INFO  ServerThread:53 - Data Received is [ G,0004658950 ]
+2014-01-24 18:00:27 INFO  ProcessGPS:12 - [Ljava.lang.String;@6c21fb84
+2014-01-24 18:00:27 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50171 ] Thread-3 terminated abruptly
+2014-01-24 18:00:27 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 18:01:50 INFO  App:34 - connection Established with --> /127.0.0.1:50172
+2014-01-24 18:01:50 INFO  ServerThread:53 - Data Received is [ G,0004658950 ]
+2014-01-24 18:01:50 INFO  ProcessGPS:12 - [Ljava.lang.String;@5252bb2d
+2014-01-24 18:01:50 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50172 ] Thread-4 terminated abruptly
+2014-01-24 18:01:50 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 18:10:04 INFO  App:25 - created server --> server listening.....
+2014-01-24 18:10:07 INFO  App:34 - connection Established with --> /127.0.0.1:50180
+2014-01-24 18:10:07 INFO  ServerThread:53 - Data Received is [ G,0004658950 ]
+2014-01-24 18:10:07 INFO  ProcessGPS:12 - G,0004658950
+2014-01-24 18:10:07 INFO  ProcessGPS:19 - Invalid GPRS Data [ G,0004658950
+2014-01-24 18:10:07 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50180 ] Thread-3 terminated abruptly
+2014-01-24 18:10:07 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 18:47:06 INFO  InsertStudentData:50 - 
+2014-01-24 18:47:47 INFO  InsertStudentData:51 - ID is null
+2014-01-24 18:48:06 INFO  InsertStudentData:51 - ID is null
+2014-01-24 18:50:30 INFO  InsertStudentData:52 - ID is null
+2014-01-24 18:53:37 INFO  InsertStudentData:47 - N/A
+2014-01-24 19:11:24 INFO  App:28 - Cannot create server with port [ 10000 ] , PORT already in use!
+2014-01-24 19:11:30 INFO  App:34 - connection Established with --> /127.0.0.1:50326
+2014-01-24 19:11:30 INFO  ServerThread:53 - Data Received is [ G,0004658950 ]
+2014-01-24 19:11:30 INFO  ProcessGPS:12 - G,0004658950
+2014-01-24 19:11:30 INFO  ProcessGPS:19 - Invalid GPRS Data [ G,0004658950
+2014-01-24 19:11:30 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50326 ] Thread-4 terminated abruptly
+2014-01-24 19:11:30 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 19:11:37 INFO  App:25 - created server --> server listening.....
+2014-01-24 19:11:40 INFO  App:34 - connection Established with --> /127.0.0.1:50327
+2014-01-24 19:11:40 INFO  ServerThread:53 - Data Received is [ G,0004658950 ]
+2014-01-24 19:11:40 INFO  ProcessGPS:21 - G,0004658950
+2014-01-24 19:11:40 INFO  ProcessGPS:59 - Invalid GPRS Data [ G,0004658950 ]
+2014-01-24 19:11:40 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50327 ] Thread-3 terminated abruptly
+2014-01-24 19:11:40 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 19:12:12 INFO  App:34 - connection Established with --> /127.0.0.1:50328
+2014-01-24 19:12:12 INFO  ServerThread:53 - Data Received is [ G,N,0004658950,S,90888 ]
+2014-01-24 19:12:12 INFO  ProcessGPS:21 - G,N,0004658950,S,90888
+2014-01-24 19:12:12 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50328 ] Thread-4 terminated abruptly
+2014-01-24 19:12:12 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 19:12:41 INFO  App:34 - connection Established with --> /127.0.0.1:50329
+2014-01-24 19:12:42 INFO  ServerThread:53 - Data Received is [ G,0004658950,N,90888,S ]
+2014-01-24 19:12:42 INFO  ProcessGPS:21 - G,0004658950,N,90888,S
+2014-01-24 19:12:42 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50329 ] Thread-5 terminated abruptly
+2014-01-24 19:12:42 INFO  ServerThread:112 - Connection Closing..
+2014-01-24 19:14:13 INFO  App:34 - connection Established with --> /127.0.0.1:50332
+2014-01-24 19:14:13 INFO  ServerThread:53 - Data Received is [ G,0004658950,N,90888,S ]
+2014-01-24 19:14:13 INFO  ProcessGPS:21 - G,0004658950,N,90888,S
+2014-01-24 19:14:13 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50332 ] Thread-6 terminated abruptly
+2014-01-24 19:14:13 INFO  ServerThread:112 - Connection Closing..

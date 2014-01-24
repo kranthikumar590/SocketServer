@@ -8,24 +8,28 @@ import java.net.Socket;
 
 import org.apache.log4j.Logger;
 import org.springframework.context.ApplicationContext;
+import org.springframework.data.mongodb.core.MongoTemplate;
 
 import com.client.data.Data;
 import com.client.data.InsertRfidData;
 import com.client.data.Rfid;
+import com.gps.data.ProcessGPS;
 
 
 
 class ServerThread extends Thread {
 	private static final Logger logger = Logger.getLogger(ServerThread.class);
+	
 	String line = null;
 	BufferedReader is = null;
 	PrintWriter os = null;
 	Socket s = null;
 	private ApplicationContext context;
-
-	public  ServerThread(Socket s, ApplicationContext context) {
+	private MongoTemplate mongoTemplate;
+	public  ServerThread(Socket s, ApplicationContext context,MongoTemplate mongoTemplate) {
 		this.s = s;
 		this.context = context;
+		this.mongoTemplate=mongoTemplate;
 	}
 
 	public void run() {
@@ -55,13 +59,13 @@ class ServerThread extends Thread {
 						InsertRfidData insertRfid=context.getBean("insertRfid",InsertRfidData.class);
 						insertRfid.setRfid(arr[1]);
 						Rfid rfid=insertRfid.rfidExists(context);
-						if(rfid!=null){
+						if(rfid!=null){	
 							
 							
 							if(rfid.getType().equals("student"))	
 								insertRfid.insertTimeIntoStudent(rfid.getRfid_number(),context);
 							if(rfid.getType().equals("driver"))
-								insertRfid.insertTimeIntoDriver(rfid.getRfid_number());
+								insertRfid.insertTimeIntoDriver(rfid.getRfid_number(),context);
 						}
 						else{
 							logger.info("RFID [ " +insertRfid.getRfid()+"] not valid / not registered....");
@@ -70,7 +74,8 @@ class ServerThread extends Thread {
 					}
 					else if(arr[0].equals("G")){
 						//GPRSData gprsData=context.getBean("gprs",GPRSData.class);
-						
+						ProcessGPS processGPS=context.getBean("processGPS",ProcessGPS.class);
+						processGPS.process(data.getDataLine(),context,mongoTemplate);
 					}
 				}
 				catch(Exception e){

@@ -6,6 +6,7 @@ import java.net.Socket;
 import org.apache.log4j.Logger;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.data.mongodb.core.MongoTemplate;
 
 
 
@@ -16,7 +17,7 @@ public class App {
 
 		ApplicationContext context;
 		context = new ClassPathXmlApplicationContext(new String[] { "spring-config.xml" });
-		//MongoOperations mongoOperation = (MongoOperations) context.getBean("mongoTemplate");
+		MongoTemplate mongoTemplate =context.getBean("mongoTemplate",MongoTemplate.class);
 		Socket s = null;
 		ServerSocket ss2 = null;
 		try {
@@ -32,7 +33,7 @@ public class App {
 				s = ss2.accept();
 				logger.info("connection Established with --> "+ s.getRemoteSocketAddress());
 
-				ServerThread st = new ServerThread(s,context);
+				ServerThread st = new ServerThread(s,context,mongoTemplate);
 				//logger.info("Thread status -- > "+ServerThread.currentThread().getState());
 				st.start();
 			}
