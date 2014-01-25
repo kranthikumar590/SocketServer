@@ -82,7 +82,7 @@ public class InsertRfidData {
 
 					if (!morning_out_bound.equals("no")) {
 
-						logger.info("Morning out bound  exists...");
+						//logger.info("Morning out bound  exists...");
 						// Morning Session closed
 						evening eve = driver_infoObject.getEvening();
 						String evening_out_bound = eve.getOut_bound();
@@ -98,25 +98,25 @@ public class InsertRfidData {
 												StudentMorningSession.class);
 								MainRfidInfo mainRfidInfo=studentMorningSession.set(context, mongoTemplate);
 								rfid_info student_rfid_info[]=mainRfidInfo.getRfid_info();
-								logger.info("Student rfid info ==> "+student_rfid_info);
+								//logger.info("Student rfid info ==> "+student_rfid_info);
 								
 								//String student_rfid=student_rfid_info.getRfid();
 								if(student_rfid_info!=null){
 									
 									//Insert into student morning out bound
-									logger.info("RFID_info  exists in collection ....");
+									//logger.info("RFID_info  exists in collection ....");
 									rfid_info current_student_rfid=null;
 									for(int i=0;i<student_rfid_info.length;i++){
 										
 										rfid_info single=student_rfid_info[i];
 										if(single.getRfid().equals(rfid_num)){
-											logger.info("Single student info --> "+single);
+											//logger.info("Single student info --> "+single);
 											current_student_rfid=single;
 										}
 									}
 									if(current_student_rfid!=null){
 										
-										logger.info("Student morning in bound exists...");
+										//logger.info("Student morning in bound exists...");
 										if(!current_student_rfid.getEvening_in_bound().equals("no")){
 											
 											//logger.info("Student session cannot be inserted beacuse [ multiple RFID tapping ]");
@@ -138,7 +138,7 @@ public class InsertRfidData {
 														 
 														  Criteria.where("rfid_info.rfid").is(rfid_num))
 														);
-												logger.info("Query --> "+query);
+												//logger.info("Query --> "+query);
 												Update update = new Update().set("rfid_info.$.evening_out_bound", rf.getMorning_in_bound());
 
 												mongoTemplate.updateMulti(query, update, "oneday_bus_information");
@@ -159,7 +159,7 @@ public class InsertRfidData {
 													 
 													  Criteria.where("rfid_info.rfid").is(rfid_num))
 													);
-											logger.info("Query --> "+query);
+											//logger.info("Query --> "+query);
 											Update update = new Update().set("rfid_info.$.evening_in_bound", rf.getMorning_in_bound());
 
 											mongoTemplate.updateMulti(query, update, "oneday_bus_information");
@@ -167,7 +167,7 @@ public class InsertRfidData {
 										}
 									}
 									else{
-										logger.info("Student morning in bound doesnot exists...");
+										//logger.info("Student morning in bound doesnot exists...");
 										//Insert into student evening in bound
 										Criteria c1 = Criteria.where("_id").is("BUS_101:"+todayDate);
 										
@@ -180,7 +180,7 @@ public class InsertRfidData {
 												 
 												  Criteria.where("rfid_info.rfid").is(rfid_num))
 												);
-										logger.info("Query --> "+query);
+										//logger.info("Query --> "+query);
 										Update update = new Update().set("rfid_info.$.evening_in_bound", rf.getMorning_in_bound());
 
 										mongoTemplate.updateMulti(query, update, "oneday_bus_information");
@@ -193,8 +193,8 @@ public class InsertRfidData {
 									
 								}
 								
-								logger.info("Driver Morning out bound doesnot exists... so push data into morning session");
-								logger.info("Driver Evening in bound  exists... but not evening out bound so insert student data");
+								//logger.info("Driver Morning out bound doesnot exists... so push data into morning session");
+								//logger.info("Driver Evening in bound  exists... but not evening out bound so insert student data");
 							}
 						}
 
@@ -205,19 +205,19 @@ public class InsertRfidData {
 										StudentMorningSession.class);
 						MainRfidInfo mainRfidInfo=studentMorningSession.set(context, mongoTemplate);
 						rfid_info student_rfid_info[]=mainRfidInfo.getRfid_info();
-						logger.info("Student rfid info ==> "+student_rfid_info);
+						//logger.info("Student rfid info ==> "+student_rfid_info);
 						
 						//String student_rfid=student_rfid_info.getRfid();
 						if(student_rfid_info!=null){
 							
 							
-							logger.info("RFID_info  exists in collection ....");
+							//logger.info("RFID_info  exists in collection ....");
 							rfid_info current_student_rfid=null;
 							for(int i=0;i<student_rfid_info.length;i++){
 								
 								rfid_info single=student_rfid_info[i];
 								if(single.getRfid().equals(rfid_num)){
-									logger.info("Single student info --> "+single);
+									//logger.info("Single student info --> "+single);
 									current_student_rfid=single;
 								}
 							}
@@ -242,7 +242,7 @@ public class InsertRfidData {
 											 
 											  Criteria.where("rfid_info.rfid").is(rfid_num))
 											);
-									logger.info("Query --> "+query);
+									//logger.info("Query --> "+query);
 									Update update = new Update().set("rfid_info.$.morning_out_bound", rf.getMorning_in_bound());
 
 									mongoTemplate.updateMulti(query, update, "oneday_bus_information");
@@ -250,7 +250,7 @@ public class InsertRfidData {
 								}
 							}
 							else{
-								logger.info("Student morning in bound doesnot exists...");
+								//logger.info("Student morning in bound doesnot exists...");
 								//Insert into student morning in bound
 								Criteria c1 = Criteria.where("_id").is("BUS_101:"+todayDate);
 								
@@ -263,7 +263,7 @@ public class InsertRfidData {
 										 
 										  Criteria.where("rfid_info.rfid").is(rfid_num))
 										);
-								logger.info("Query --> "+query);
+								//logger.info("Query --> "+query);
 								Update update = new Update().set("rfid_info.$.morning_in_bound", rf.getMorning_in_bound());
 
 								mongoTemplate.updateMulti(query, update, "oneday_bus_information");
@@ -271,7 +271,7 @@ public class InsertRfidData {
 							}
 						}
 						else{
-							logger.info("Student morning in bound doesnot exists...");
+							//logger.info("Student morning in bound doesnot exists...");
 							//Insert into student morning in bound
 							Criteria c1 = Criteria.where("_id").is("BUS_101:"+todayDate);
 							Query query=new Query(c1);
@@ -286,13 +286,13 @@ public class InsertRfidData {
 							logger.info("created morning inbound for " +rfid_num);
 						}
 						
-						logger.info("Driver Morning out bound doesnot exists... so push data into morning session");
+						//logger.info("Driver Morning out bound doesnot exists... so push data into morning session");
 					}
 				} else {
 					logger.info("MorningSession is null");
 				}
 			} catch (NullPointerException e) {
-				logger.info("EveningSession is null");
+				logger.info("Today there is no Session..");
 			}
 
 		} else {
@@ -344,6 +344,7 @@ public class InsertRfidData {
 								Update update = new Update().set("driver_info.evening.out_bound", sdf.format(cal.getTime()));
 
 								mongoTemplate.updateMulti(query3, update, "oneday_bus_information");
+								logger.info("Created Evening out bound for driver with RFID [ "+ rfid_num+" ]");
 								logger.info("Today's session closed....");
 							}
 						}
@@ -354,6 +355,7 @@ public class InsertRfidData {
 							Update update = new Update().set("driver_info.evening.in_bound", sdf.format(cal.getTime()));
 
 							mongoTemplate.updateMulti(query3, update, "oneday_bus_information");
+							logger.info("Created Evening in bound for driver with RFID [ "+ rfid_num+" ]");
 						}
 					}
 					else{
@@ -363,6 +365,7 @@ public class InsertRfidData {
 						Update update = new Update().set("driver_info.morning.out_bound", sdf.format(cal.getTime()));
 
 						mongoTemplate.updateMulti(query3, update, "oneday_bus_information");
+						logger.info("Created Morning out bound for driver with RFID [ "+ rfid_num+" ]");
 					}
 				}
 			}
@@ -383,7 +386,7 @@ public class InsertRfidData {
 				Update update=new Update().set("driver_info", rf);
 				mongoTemplate.updateFirst(query2, update, "oneday_bus_information");
 				
-				logger.info("Created driver morning in bound...");
+				logger.info("Created Morning in bound for driver with RFID [ "+ rfid_num+" ]");
 			}
 		}
 		catch(NullPointerException e){

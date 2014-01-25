@@ -1777,3 +1777,49 @@
 2014-01-24 19:14:13 INFO  ProcessGPS:21 - G,0004658950,N,90888,S
 2014-01-24 19:14:13 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:50332 ] Thread-6 terminated abruptly
 2014-01-24 19:14:13 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:16:43 INFO  App:25 - created server --> server listening.....
+2014-01-25 10:17:07 INFO  App:34 - connection Established with --> /127.0.0.1:40468
+2014-01-25 10:17:07 INFO  ServerThread:53 - Data Received is [ G,1746.6076,N,7847.6678,E ]
+2014-01-25 10:17:07 INFO  ProcessGPS:21 - G,1746.6076,N,7847.6678,E
+2014-01-25 10:17:07 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:40468 ] Thread-3 terminated abruptly
+2014-01-25 10:17:07 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:18:37 INFO  App:34 - connection Established with --> /127.0.0.1:40473
+2014-01-25 10:18:37 INFO  ServerThread:53 - Data Received is [ G,1746.6076,N,7847.6678,E ]
+2014-01-25 10:18:37 INFO  ProcessGPS:21 - G,1746.6076,N,7847.6678,E
+2014-01-25 10:18:37 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:40473 ] Thread-4 terminated abruptly
+2014-01-25 10:18:37 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:19:00 INFO  App:34 - connection Established with --> /127.0.0.1:40475
+2014-01-25 10:19:00 INFO  ServerThread:53 - Data Received is [ G,1746.6076,N,7847.6678,W ]
+2014-01-25 10:19:00 INFO  ProcessGPS:21 - G,1746.6076,N,7847.6678,W
+2014-01-25 10:19:00 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:40475 ] Thread-5 terminated abruptly
+2014-01-25 10:19:00 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:21:03 INFO  App:34 - connection Established with --> /127.0.0.1:40484
+2014-01-25 10:21:03 INFO  ServerThread:53 - Data Received is [ R,0004716436 ]
+2014-01-25 10:21:03 INFO  InsertRfidData:58 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-25 10:21:03 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:25-01-2014"}, Fields: null, Sort: { }
+2014-01-25 10:21:03 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=null]
+2014-01-25 10:21:03 INFO  InsertRfidData:295 - EveningSession is null
+2014-01-25 10:21:03 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:40484 ] Thread-6 terminated abruptly
+2014-01-25 10:21:03 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:21:46 INFO  App:34 - connection Established with --> /127.0.0.1:40486
+2014-01-25 10:21:46 INFO  ServerThread:53 - Data Received is [ R,0004658950 ]
+2014-01-25 10:21:46 INFO  InsertRfidData:304 - RFID [ 0004658950] exists. with RFID Type [ Driver ]
+2014-01-25 10:21:46 INFO  InsertRfidData:317 - Query: { "_id" : "BUS_101:25-01-2014"}, Fields: null, Sort: { }
+2014-01-25 10:21:46 INFO  InsertRfidData:323 - 
+2014-01-25 10:21:46 INFO  InsertRfidData:386 - Created driver morning in bound...
+2014-01-25 10:21:46 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:40486 ] Thread-7 terminated abruptly
+2014-01-25 10:21:46 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:22:07 INFO  App:34 - connection Established with --> /127.0.0.1:40488
+2014-01-25 10:22:07 INFO  ServerThread:53 - Data Received is [ R,0004716436 ]
+2014-01-25 10:22:07 INFO  InsertRfidData:58 - RFID [ 0004716436] exists. with RFID Type [ Student ]
+2014-01-25 10:22:07 INFO  DriverRfid:30 - Query: { "_id" : "BUS_101:25-01-2014"}, Fields: null, Sort: { }
+2014-01-25 10:22:07 INFO  DriverRfid:34 - reply ==> OneDayBusInfo [driver_info=driver_info [morning=morning [in_bound=10:21:46, out_bound=no], evening=evening [in_bound=no, out_bound=no]]]
+2014-01-25 10:22:07 INFO  StudentMorningSession:31 - Query: { "_id" : "BUS_101:25-01-2014"}, Fields: null, Sort: { }
+2014-01-25 10:22:07 INFO  InsertRfidData:208 - Student rfid info ==> null
+2014-01-25 10:22:07 INFO  InsertRfidData:274 - Student morning in bound doesnot exists...
+2014-01-25 10:22:07 INFO  InsertRfidData:286 - created morning inbound for 0004716436
+2014-01-25 10:22:07 INFO  InsertRfidData:289 - Driver Morning out bound doesnot exists... so push data into morning session
+2014-01-25 10:22:07 INFO  ServerThread:90 - IO Error/ Client [/127.0.0.1:40488 ] Thread-8 terminated abruptly
+2014-01-25 10:22:07 INFO  ServerThread:112 - Connection Closing..
+2014-01-25 10:35:18 INFO  App:25 - created server --> server listening.....
+2014-01-25 10:39:21 INFO  App:25 - created server --> server listening.....
