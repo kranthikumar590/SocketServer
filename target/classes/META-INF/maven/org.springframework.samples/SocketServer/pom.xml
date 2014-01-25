@@ -3,7 +3,7 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>SocketServer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+
   <properties>
 
 		<!-- Generic properties -->
